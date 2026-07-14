@@ -1,0 +1,7 @@
+{
+  "generic": "Ein Fehler ist aufgetreten",
+  "tryAgain": "Bitte versuchen Sie es erneut.",
+  "unauthorized": "Sie müssen sich anmelden, um diese Aktion auszuführen.",
+  "notFound": "Seite nicht gefunden",
+  "network": "Verbindungsfehler. Bitte versuchen Sie es erneut."
+}

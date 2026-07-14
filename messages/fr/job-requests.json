@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "📨 Envoyer une demande de mission",
+    "subtitle": "Envoyez les détails de la mission et vos coordonnées pour joindre l'artiste.",
+    "jobDetails": "Détails de la mission",
+    "contactInfo": "Coordonnées",
+    "cancel": "Annuler",
+    "sending": "Envoi en cours...",
+    "send": "Envoyer la demande",
+    "closeAria": "Fermer",
+    "success": "Votre demande de mission a été envoyée avec succès.",
+    "errors": {
+      "artistMissing": "Informations sur l'artiste introuvables. Veuillez actualiser la page et réessayer.",
+      "jobType": "Veuillez indiquer le type de mission.",
+      "country": "Veuillez indiquer le pays.",
+      "city": "Veuillez indiquer la ville.",
+      "name": "Veuillez indiquer votre nom complet.",
+      "phone": "Veuillez indiquer votre numéro de téléphone.",
+      "email": "Veuillez indiquer votre adresse e-mail.",
+      "loginRequired": "Vous devez vous connecter pour envoyer une demande de mission.",
+      "sendFailed": "La demande de mission n'a pas pu être envoyée. Veuillez réessayer."
+    }
+  },
+  "list": {
+    "loading": "Chargement des demandes de mission...",
+    "empty": "Aucune demande de mission pour le moment.",
+    "emptyHint": "Les demandes des clients apparaîtront ici.",
+    "openChat": "Ouvrir la conversation →",
+    "message": "Message de la demande",
+    "noDate": "Aucune date indiquée",
+    "noConversation": "Aucune conversation",
+    "artistLoadError": "Impossible de charger le profil artiste.",
+    "loadError": "Impossible de charger les demandes de mission.",
+    "phone": "Téléphone",
+    "email": "E-mail"
+  }
+}

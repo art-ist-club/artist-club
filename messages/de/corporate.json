@@ -1,0 +1,159 @@
+{
+  "layout": {
+    "backHome": "Zur Startseite",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "brandHome": "ART-IST.CLUB"
+  },
+  "about": {
+    "title": "Wir verbinden Künstlerinnen und Künstler mit der Welt.",
+    "description": "ART-IST.CLUB ist eine globale digitale Plattform, die Künstlerinnen und Künstler sichtbar, erreichbar und offen für professionelle Chancen macht.",
+    "ctaDiscover": "Künstler entdecken",
+    "ctaJoin": "Als Künstler beitreten",
+    "ctaDiscoverAria": "Zur Künstler-Entdeckungsseite",
+    "ctaJoinAria": "Als Künstler registrieren"
+  },
+  "contact": {
+    "title": "Erreichen Sie das richtige Team bei ART-IST.CLUB.",
+    "description": "ART-IST.CLUB strebt ein klares, vertrauenswürdiges und professionelles Kontakterlebnis für Künstlerinnen und Künstler, Kundschaft und institutionelle Partner an.",
+    "ctaFaq": "Zur FAQ",
+    "ctaFaqAria": "Zur Seite mit häufig gestellten Fragen",
+    "ctaDiscover": "Künstler entdecken",
+    "ctaDiscoverAria": "Zur Künstler-Entdeckungsseite",
+    "ctaJoin": "Als Künstler beitreten",
+    "ctaJoinAria": "Als Künstler registrieren",
+    "ctaAbout": "Über uns",
+    "ctaAboutAria": "Zur Seite Über uns"
+  },
+  "faq": {
+    "title": "Klare Antworten auf häufige Fragen.",
+    "description": "Schnelle, verlässliche Orientierung zu ART-IST.CLUB, Konten, Discovery, Jobanfragen und rechtlichen Themen.",
+    "ctaContact": "Zur Kontaktseite",
+    "ctaContactAria": "Zur Kontaktseite wechseln",
+    "ctaDiscover": "Künstler entdecken",
+    "ctaDiscoverAria": "Zur Künstler-Entdeckungsseite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaAbout": "Über uns",
+    "ctaAboutAria": "Zur Seite Über uns"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "description": "Die zentralen Bedingungen und Verantwortlichkeiten bei der Nutzung der ART-IST.CLUB-Plattform.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Discover-Seite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "description": "Wie ART-IST.CLUB personenbezogene Daten zu Konten, Profilen, Discovery, Jobanfragen und Messaging verarbeitet.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Discover-Seite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "cookies": {
+    "title": "Cookie-Richtlinie",
+    "description": "Wie ART-IST.CLUB Cookies und ähnliche Technologien für den sicheren Betrieb und Einstellungen verwendet.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Discover-Seite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "refund": {
+    "title": "Rückerstattungsrichtlinie",
+    "description": "Der Ansatz von ART-IST.CLUB zu Rückerstattungen für künftige kostenpflichtige Mitgliedschaften und Abonnements.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Discover-Seite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "subscription": {
+    "title": "Abonnementbedingungen",
+    "description": "Allgemeine Funktionsprinzipien für künftige kostenpflichtige Mitgliedschaften und Abonnements auf ART-IST.CLUB.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Discover-Seite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "company": {
+    "title": "Unternehmensinformationen",
+    "description": "Der Ansatz von ART-IST.CLUB zu unternehmerischer Transparenz und zur Veröffentlichung verifizierter Firmendaten.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Discover-Seite",
+    "ctaJoin": "Mitglied werden",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "kvkk": {
+    "title": "KVKK-Datenschutzhinweis",
+    "description": "Informationsschreiben dazu, wie ART-IST.CLUB personenbezogene Daten verarbeitet.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Entdecken-Seite",
+    "ctaJoin": "Registrieren",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "explicitConsent": {
+    "title": "Einwilligungserklärung",
+    "description": "Gesonderte, optionale Information nur für Verarbeitungen, die eine ausdrückliche Einwilligung erfordern können.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Entdecken-Seite",
+    "ctaJoin": "Registrieren",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "electronicCommunications": {
+    "title": "Kommerzielle elektronische Nachrichten",
+    "description": "Optionale Zustimmunginformation für Kampagnen- und Ankündigungs-E-Mails.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Entdecken-Seite",
+    "ctaJoin": "Registrieren",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "distanceSalesPreliminary": {
+    "title": "Vorvertragliche Fernabsatzinformation",
+    "description": "Rahmen für vorvertragliche Informationen zu kostenpflichtigen Abonnementdiensten.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Entdecken-Seite",
+    "ctaJoin": "Registrieren",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "distanceSalesAgreement": {
+    "title": "Fernabsatz- / Abonnementvertrag",
+    "description": "Vertragsrahmen für kostenpflichtige Abonnementdienste.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Entdecken-Seite",
+    "ctaJoin": "Registrieren",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt",
+    "ctaContactAria": "Zur Kontaktseite"
+  },
+  "cancellation": {
+    "title": "Kündigung & Widerruf",
+    "description": "Allgemeine Informationen zu Kündigung und Widerrufsrecht.",
+    "ctaDiscover": "Plattform entdecken",
+    "ctaDiscoverAria": "Zur Entdecken-Seite",
+    "ctaJoin": "Registrieren",
+    "ctaJoinAria": "Zur Registrierungsseite",
+    "ctaContact": "Kontakt",
+    "ctaContactAria": "Zur Kontaktseite"
+  }
+}

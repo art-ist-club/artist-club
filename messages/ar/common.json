@@ -1,0 +1,46 @@
+{
+    "brand": {
+      "name": "Art-ist.Club",
+      "tagline": "العالم الجديد للفن"
+    },
+  
+    "actions": {
+      "login": "تسجيل الدخول",
+      "register": "إنشاء حساب",
+      "join": "انضم",
+      "logout": "تسجيل الخروج",
+      "save": "حفظ",
+      "cancel": "إلغاء",
+      "continue": "متابعة",
+      "back": "رجوع",
+      "next": "التالي",
+      "close": "إغلاق",
+      "search": "بحث",
+      "discover": "اكتشف",
+      "view": "عرض",
+      "details": "التفاصيل",
+      "send": "إرسال",
+      "publish": "نشر",
+      "edit": "تعديل",
+      "delete": "حذف",
+      "upload": "رفع"
+    },
+  
+    "status": {
+      "loading": "جارٍ التحميل...",
+      "success": "تم بنجاح",
+      "error": "حدث خطأ",
+      "comingSoon": "قريباً",
+      "online": "متصل",
+      "offline": "غير متصل"
+    },
+  
+    "language": {
+      "tr": "Türkçe",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "ar": "العربية"
+    }
+  }

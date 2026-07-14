@@ -1,0 +1,73 @@
+{
+  "main": {
+    "discover": "Entdecken",
+    "foundingArtist": "Founding Artist",
+    "vipB2b": "VIP / B2B",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "discover": "Entdecken",
+    "artists": "Künstler",
+    "categories": "Kategorien",
+    "platform": "Plattform",
+    "account": "Konto"
+  },
+  "siteFooter": {
+    "description": "Die globale Kunstplattform, auf der Talente entdeckt werden und Chancen beginnen.",
+    "explore": "ENTDECKEN",
+    "artists": "Künstler",
+    "categories": "Kategorien",
+    "projects": "Projekte",
+    "platform": "PLATTFORM",
+    "becomeArtist": "Registrieren",
+    "foundingArtist": "Founding Artist",
+    "features": "Funktionen",
+    "help": "HILFE",
+    "support": "Support-Center",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten.",
+    "company": "UNTERNEHMEN",
+    "legal": "RECHTLICHES",
+    "about": "Über uns",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz",
+    "cookies": "Cookies",
+    "refund": "Rückerstattung",
+    "subscription": "Abonnement",
+    "companyInfo": "Impressum",
+    "register": "Registrieren",
+    "login": "Anmelden",
+    "discoverLink": "Entdecken",
+    "turkeyLegal": "TR RECHT",
+    "kvkk": "KVKK-Hinweis",
+    "explicitConsent": "Einwilligung",
+    "electronicCommunications": "Werbung per E-Mail",
+    "distanceSalesPreliminary": "Vorinformation",
+    "distanceSalesAgreement": "Fernabsatzvertrag",
+    "cancellation": "Kündigung & Widerruf"
+  },
+  "dashboard": {
+    "artist": "Künstler-Dashboard",
+    "client": "Kunden-Dashboard",
+    "favorites": "Favoriten",
+    "messages": "Nachrichten",
+    "notifications": "Benachrichtigungen",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "logout": "Abmelden"
+  },
+  "profileSetup": {
+    "basic": "Grundinformationen",
+    "categories": "Kategorien",
+    "photo": "Profilfoto",
+    "gallery": "Galerie",
+    "video": "Video",
+    "bio": "Über mich",
+    "workArea": "Arbeitsbereich",
+    "social": "Soziale Medien",
+    "preview": "Vorschau",
+    "publish": "Veröffentlichen"
+  }
+}

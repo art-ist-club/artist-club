@@ -1,0 +1,122 @@
+{
+    "hero": {
+      "eyebrow": "Global Sanat Platformu",
+      "titleStart": "Sanatın geleceği",
+      "titleHighlight": "burada başlıyor.",
+      "description": "Oyuncular, müzisyenler, dansçılar, modeller ve yaratıcı yetenekler; müşteriler, markalar, yapımcılar ve ajanslarla tek platformda buluşuyor.",
+      "discoverCta": "Sanatçı Keşfet",
+      "foundingCta": "Founding Artist Ol"
+    },
+    "trust": {
+      "discover": {
+        "title": "Sanatçı Keşfet",
+        "description": "Kategori ve konuma göre ara"
+      },
+      "directContact": {
+        "title": "Doğrudan İletişim",
+        "description": "Aracı olmadan bağlantı kur"
+      },
+      "founding": {
+        "title": "Founding Artist",
+        "description": "İlk toplulukta yerini al"
+      },
+      "safe": {
+        "title": "Güvenli Platform",
+        "description": "Kontrollü ve şeffaf yapı"
+      }
+    },
+    "categories": {
+      "sectionTitle": "Tüm Sanat Dalları",
+      "acting": {
+        "title": "Oyunculuk",
+        "description": "Oyuncu & Performans"
+      },
+      "music": {
+        "title": "Müzik",
+        "description": "Şarkıcı & Müzisyen"
+      },
+      "dance": {
+        "title": "Dans",
+        "description": "Dansçı & Koreograf"
+      },
+      "model": {
+        "title": "Model",
+        "description": "Model & Yüz"
+      },
+      "photography": {
+        "title": "Fotoğraf",
+        "description": "Fotoğrafçı & Kreatif Ekip"
+      },
+      "influencer": {
+        "title": "Influencer",
+        "description": "İçerik Üretici"
+      },
+      "filmProduction": {
+        "title": "Film & Yapım",
+        "description": "Yönetmen & Prodüksiyon"
+      },
+      "all": {
+        "title": "Tüm Kategoriler",
+        "description": "20+ Sanat Dalını Keşfet"
+      }
+    },
+    "artists": {
+      "actor": "Oyuncu",
+      "singer": "Şarkıcı",
+      "dancer": "Dansçı",
+      "photographer": "Fotoğrafçı",
+      "locations": {
+        "istanbulTurkey": "İstanbul, Türkiye",
+        "berlinGermany": "Berlin, Almanya",
+        "milanItaly": "Milano, İtalya",
+        "madridSpain": "Madrid, İspanya",
+        "parisFrance": "Paris, Fransa"
+      }
+    },
+    "founding": {
+      "badgeAlt": "Art-ist.Club Founding Artist Rozeti",
+      "limitedPeriod": "Sınırlı dönem",
+      "title": "Platform büyümeden önce yerini al.",
+      "description": "İlk topluluğun parçası ol, kalıcı Founding Artist rozetini kazan ve özel avantajların tümünü keşfet.",
+      "discoverBenefits": "Tüm ayrıcalıkları keşfet",
+      "detailsCta": "Detayları İncele",
+      "benefits": {
+        "permanentBadge": "Kalıcı özel rozet",
+        "priorityVisibility": "Öncelikli görünürlük",
+        "foundingCommunity": "Kurucu topluluk"
+      },
+      "countdown": {
+        "title": "Kampanyanın bitmesine",
+        "days": "Gün",
+        "hours": "Saat",
+        "minutes": "Dakika",
+        "seconds": "Saniye",
+        "ended": "Kampanya sona erdi",
+        "deadline": "Son katılım: 30.06.2027 · 00:00"
+      }
+    },
+    "vip": {
+      "title": "Doğru yeteneğe direkt erişin.",
+      "description": "Projenize uygun sanatçıları kategori ve konuma göre keşfedin.",
+      "cta": "Sanatçı Keşfet",
+      "examples": {
+        "actorIstanbul": "Oyuncu · İstanbul",
+        "musicianBerlin": "Müzisyen · Berlin",
+        "dancerIzmir": "Dansçı · İzmir",
+        "modelParis": "Model · Paris"
+      }
+    },
+    "stats": {
+      "countries": "Ülke ve bölge altyapısı",
+      "cities": "Şehir verisi",
+      "access": "Platform erişimi",
+      "panels": "Sanatçı ve müşteri paneli"
+    },
+    "footer": {
+      "description": "Sanatçıları ve onları arayan müşterileri doğrudan buluşturan global sanat platformu.",
+      "rights": "Tüm hakları saklıdır."
+    },
+    "languageSelector": {
+      "label": "Dil Seç"
+    }
+  }

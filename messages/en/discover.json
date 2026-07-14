@@ -1,0 +1,76 @@
+{
+  "loading": {
+    "title": "Loading artists...",
+    "subtitle": "Preparing the discovery space."
+  },
+  "hero": {
+    "searchPlaceholder": "Search artist, category, city, or username...",
+    "trendSearches": "Trending Searches",
+    "activeCount": "{{count}} active",
+    "clearFilters": "Clear Filters",
+    "labels": {
+      "artist": "Artist",
+      "country": "Country",
+      "category": "Category",
+      "matching": "Matching"
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "smartSearch": "Smart Search",
+    "category": "Category",
+    "country": "Country",
+    "city": "City",
+    "language": "Language",
+    "allCategories": "All categories",
+    "allCountries": "All countries",
+    "allCities": "All cities",
+    "allLanguages": "All languages",
+    "workMode": "Work Mode",
+    "all": "All",
+    "online": "Online",
+    "onsite": "On-site",
+    "travel": "Travel",
+    "photoOnly": "Profiles with photos only",
+    "active": "Active",
+    "inactive": "Off",
+    "resetAll": "Reset All Filters"
+  },
+  "featured": {
+    "badge": "Featured Artist",
+    "aiPreview": "AI Preview",
+    "viewProfile": "View Profile →",
+    "similarArtists": "Discover Similar Artists →"
+  },
+  "results": {
+    "title": "Search Results",
+    "listingCount": "{{count}} artists listed",
+    "subtitle": "Newest published artists",
+    "emptyTitle": "No results found",
+    "emptyText": "No published profiles were found, or no artists match the selected filters. Clear the filters and try again."
+  },
+  "card": {
+    "artistFallback": "Artist",
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites",
+    "emptyBio": "This artist has not added a short bio yet.",
+    "country": "Country",
+    "city": "City",
+    "views": "Views",
+    "worksOnline": "Works online",
+    "workModelSoon": "Work model coming soon",
+    "discoverCta": "Discover Artist →"
+  },
+  "stats": {
+    "published": "Published",
+    "results": "Results",
+    "favorites": "Favorites"
+  },
+  "topArtists": {
+    "artist": "Artist",
+    "views": "views"
+  },
+  "fallbacks": {
+    "artist": "Artist"
+  }
+}

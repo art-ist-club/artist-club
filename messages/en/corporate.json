@@ -1,0 +1,159 @@
+{
+  "layout": {
+    "backHome": "Back to home",
+    "lastUpdated": "Last updated",
+    "brandHome": "ART-IST.CLUB"
+  },
+  "about": {
+    "title": "Connecting artists with the world.",
+    "description": "ART-IST.CLUB is a global digital platform that makes artists discoverable, reachable, and open to professional opportunities.",
+    "ctaDiscover": "Discover Artists",
+    "ctaJoin": "Join as an Artist",
+    "ctaDiscoverAria": "Go to the artist discovery page",
+    "ctaJoinAria": "Register as an artist"
+  },
+  "contact": {
+    "title": "Reach the right team on ART-IST.CLUB.",
+    "description": "ART-IST.CLUB aims to offer a clear, trusted, and professional contact experience for artists, clients, and institutional partners.",
+    "ctaFaq": "Go to FAQ",
+    "ctaFaqAria": "Go to the frequently asked questions page",
+    "ctaDiscover": "Discover Artists",
+    "ctaDiscoverAria": "Go to the artist discovery page",
+    "ctaJoin": "Join as an Artist",
+    "ctaJoinAria": "Register as an artist",
+    "ctaAbout": "About",
+    "ctaAboutAria": "Go to the about page"
+  },
+  "faq": {
+    "title": "Clear answers to common questions.",
+    "description": "Fast, reliable guidance on the ART-IST.CLUB platform, accounts, discovery, job requests, and legal topics.",
+    "ctaContact": "Go to Contact",
+    "ctaContactAria": "Go to the contact page",
+    "ctaDiscover": "Discover Artists",
+    "ctaDiscoverAria": "Go to the artist discovery page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaAbout": "About",
+    "ctaAboutAria": "Go to the about page"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "description": "The core terms and responsibilities that apply when you use the ART-IST.CLUB platform.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "How ART-IST.CLUB processes personal data related to accounts, profiles, discovery, job requests, and messaging.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "description": "How ART-IST.CLUB uses cookies and similar technologies for essential operation and preferences.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "refund": {
+    "title": "Refund Policy",
+    "description": "ART-IST.CLUB’s refund approach for future paid membership and subscription services.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "subscription": {
+    "title": "Subscription Terms",
+    "description": "General operating principles for future paid membership and subscription services on ART-IST.CLUB.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "company": {
+    "title": "Company Information",
+    "description": "How ART-IST.CLUB approaches corporate transparency and publishing verified company details.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "kvkk": {
+    "title": "KVKK Privacy Notice",
+    "description": "How ART-IST.CLUB processes your personal data under Turkish data protection rules.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "explicitConsent": {
+    "title": "Explicit Consent Notice",
+    "description": "Separate, optional information only for processing that may require explicit consent.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "electronicCommunications": {
+    "title": "Commercial Electronic Messages",
+    "description": "Optional consent information for campaign and announcement emails.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "distanceSalesPreliminary": {
+    "title": "Distance Services Pre-Information",
+    "description": "Pre-contract information framework for paid subscription services.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "distanceSalesAgreement": {
+    "title": "Distance Services / Subscription Agreement",
+    "description": "Distance contract framework for paid subscription services.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  },
+  "cancellation": {
+    "title": "Cancellation & Withdrawal",
+    "description": "General information on subscription cancellation and withdrawal rights.",
+    "ctaDiscover": "Explore the Platform",
+    "ctaDiscoverAria": "Go to the Discover page",
+    "ctaJoin": "Register",
+    "ctaJoinAria": "Go to the registration page",
+    "ctaContact": "Contact Us",
+    "ctaContactAria": "Go to the contact page"
+  }
+}

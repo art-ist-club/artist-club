@@ -1,0 +1,116 @@
+{
+  "setup": {
+    "loading": "Preparing your profile...",
+    "title": "Create Your Artist Profile",
+    "stepOf": "Step {{current}} / {{total}}",
+    "back": "Back",
+    "continue": "Continue",
+    "finish": "Finish",
+    "saving": "Saving...",
+    "publishing": "Publishing...",
+    "steps": {
+      "basic": "Basic Info",
+      "photo": "Profile Photo",
+      "bio": "Biography",
+      "categories": "Categories",
+      "gallery": "Gallery",
+      "video": "Video",
+      "social": "Social Media",
+      "workArea": "Work Area",
+      "preview": "Preview",
+      "publish": "Publish"
+    },
+    "alerts": {
+      "usernameRequired": "Username is required.",
+      "usernameTaken": "This username is taken. Please choose another.",
+      "publishSuccess": "Congratulations! Your profile is live."
+    }
+  },
+  "public": {
+    "loading": "Loading artist profile...",
+    "notFound": "Profile not found",
+    "noInfo": "No information yet",
+    "contact": "Get in Touch",
+    "sendJobRequest": "📨 Send Job Request",
+    "shareProfile": "Share Profile",
+    "about": "About the Artist",
+    "achievements": "Achievements",
+    "workArea": "Work Area",
+    "views": "Views",
+    "jobRequests": "Job Requests",
+    "reviews": "Reviews",
+    "worksOnsite": "Works on site",
+    "worksOnline": "Works online",
+    "notSpecified": "Not specified",
+    "noCategory": "No category specified",
+    "emptyGallery": "No gallery added yet",
+    "emptyAchievements": "No achievements added",
+    "emptyWorkArea": "No work area specified"
+  },
+  "preview": {
+    "intro": "Check how your profile will look to others before publishing. If anything is missing or wrong, go back to that step from the left menu.",
+    "modeHint": "This screen is a preview of the artist profile that will be published.",
+    "previewMode": "Preview Mode",
+    "artistName": "Artist name"
+  },
+  "publish": {
+    "title": "Publish",
+    "description": "You've reviewed your profile. Once published, you'll appear in Discovery.",
+    "checklistTitle": "Pre-publish checklist",
+    "confirm": "Publish my profile",
+    "note": "You can edit anytime."
+  },
+  "stepsUi": {
+    "basic": {
+      "fullName": "Full name",
+      "username": "Username",
+      "tagline": "Short tagline",
+      "country": "Country",
+      "state": "State / Region",
+      "city": "City",
+      "selectCountry": "Select country",
+      "selectState": "Select region",
+      "selectCity": "Select city"
+    },
+    "bio": {
+      "title": "Biography",
+      "placeholder": "Tell us about yourself..."
+    },
+    "photo": {
+      "title": "Profile Photo",
+      "upload": "Upload photo",
+      "change": "Change"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "upload": "Upload image",
+      "empty": "No images yet"
+    },
+    "video": {
+      "title": "Video",
+      "upload": "Upload video",
+      "empty": "No video yet"
+    },
+    "social": {
+      "title": "Social Media",
+      "website": "Website",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "x": "X",
+      "linkedin": "LinkedIn"
+    },
+    "categories": {
+      "title": "Categories",
+      "hint": "Select the most relevant categories"
+    },
+    "workArea": {
+      "title": "Work Area",
+      "online": "I work online",
+      "onsite": "I work on site",
+      "travel": "I travel",
+      "selectCountryFirst": "You must select a country first."
+    }
+  }
+}

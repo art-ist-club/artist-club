@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "📨 Jobanfrage senden",
+    "subtitle": "Senden Sie Jobdetails und Ihre Kontaktdaten, um den Künstler zu erreichen.",
+    "jobDetails": "Jobdetails",
+    "contactInfo": "Kontaktdaten",
+    "cancel": "Abbrechen",
+    "sending": "Wird gesendet...",
+    "send": "Jobanfrage senden",
+    "closeAria": "Schließen",
+    "success": "Ihre Jobanfrage wurde erfolgreich gesendet.",
+    "errors": {
+      "artistMissing": "Künstlerinformationen wurden nicht gefunden. Bitte aktualisieren Sie die Seite und versuchen Sie es erneut.",
+      "jobType": "Bitte geben Sie die Art des Jobs an.",
+      "country": "Bitte geben Sie das Land an.",
+      "city": "Bitte geben Sie die Stadt an.",
+      "name": "Bitte geben Sie Ihren vollständigen Namen ein.",
+      "phone": "Bitte geben Sie Ihre Telefonnummer ein.",
+      "email": "Bitte geben Sie Ihre E-Mail-Adresse ein.",
+      "loginRequired": "Sie müssen sich anmelden, um eine Jobanfrage zu senden.",
+      "sendFailed": "Die Jobanfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    }
+  },
+  "list": {
+    "loading": "Jobanfragen werden geladen...",
+    "empty": "Noch keine Jobanfragen.",
+    "emptyHint": "Anfragen von Kunden werden hier aufgelistet.",
+    "openChat": "Unterhaltung öffnen →",
+    "message": "Anfragenachricht",
+    "noDate": "Kein Datum angegeben",
+    "noConversation": "Keine Unterhaltung",
+    "artistLoadError": "Künstlerprofil konnte nicht geladen werden.",
+    "loadError": "Jobanfragen konnten nicht geladen werden.",
+    "phone": "Telefon",
+    "email": "E-Mail"
+  }
+}

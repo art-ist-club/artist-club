@@ -1,0 +1,73 @@
+{
+  "main": {
+    "discover": "Descubrir",
+    "foundingArtist": "Founding Artist",
+    "vipB2b": "VIP / B2B",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "discover": "Descubrir",
+    "artists": "Artistas",
+    "categories": "Categorías",
+    "platform": "Plataforma",
+    "account": "Cuenta"
+  },
+  "siteFooter": {
+    "description": "La plataforma global de arte donde se descubren talentos y comienzan las oportunidades.",
+    "explore": "EXPLORAR",
+    "artists": "Artistas",
+    "categories": "Categorías",
+    "projects": "Proyectos",
+    "platform": "PLATAFORMA",
+    "becomeArtist": "Registrarse",
+    "foundingArtist": "Founding Artist",
+    "features": "Funciones",
+    "help": "AYUDA",
+    "support": "Centro de soporte",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "company": "EMPRESA",
+    "legal": "LEGAL",
+    "about": "Sobre nosotros",
+    "terms": "Términos de uso",
+    "privacy": "Privacidad",
+    "cookies": "Cookies",
+    "refund": "Reembolsos",
+    "subscription": "Suscripción",
+    "companyInfo": "Datos de la empresa",
+    "register": "Registrarse",
+    "login": "Iniciar sesión",
+    "discoverLink": "Descubrir",
+    "turkeyLegal": "LEGAL TR",
+    "kvkk": "Aviso KVKK",
+    "explicitConsent": "Consentimiento explícito",
+    "electronicCommunications": "Email comercial",
+    "distanceSalesPreliminary": "Información previa",
+    "distanceSalesAgreement": "Contrato a distancia",
+    "cancellation": "Cancelación y desistimiento"
+  },
+  "dashboard": {
+    "artist": "Panel del Artista",
+    "client": "Panel del Cliente",
+    "favorites": "Favoritos",
+    "messages": "Mensajes",
+    "notifications": "Notificaciones",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión"
+  },
+  "profileSetup": {
+    "basic": "Información básica",
+    "categories": "Categorías",
+    "photo": "Foto de perfil",
+    "gallery": "Galería",
+    "video": "Vídeo",
+    "bio": "Sobre mí",
+    "workArea": "Área de trabajo",
+    "social": "Redes sociales",
+    "preview": "Vista previa",
+    "publish": "Publicar"
+  }
+}

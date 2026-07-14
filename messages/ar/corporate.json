@@ -1,0 +1,159 @@
+{
+  "layout": {
+    "backHome": "العودة إلى الصفحة الرئيسية",
+    "lastUpdated": "آخر تحديث",
+    "brandHome": "ART-IST.CLUB"
+  },
+  "about": {
+    "title": "نربط الفنانين بالعالم.",
+    "description": "ART-IST.CLUB منصة رقمية عالمية تجعل الفنانين قابلين للاكتشاف والوصول ومنفتحين على الفرص المهنية.",
+    "ctaDiscover": "اكتشف الفنانين",
+    "ctaJoin": "انضم كفنان",
+    "ctaDiscoverAria": "الانتقال إلى صفحة اكتشاف الفنانين",
+    "ctaJoinAria": "التسجيل كفنان"
+  },
+  "contact": {
+    "title": "تواصل مع الفريق المناسب في ART-IST.CLUB.",
+    "description": "تهدف ART-IST.CLUB إلى تقديم تجربة تواصل واضحة وموثوقة ومهنية للفنانين والعملاء والشركاء المؤسسيين.",
+    "ctaFaq": "الانتقال إلى الأسئلة الشائعة",
+    "ctaFaqAria": "الانتقال إلى صفحة الأسئلة الشائعة",
+    "ctaDiscover": "اكتشف الفنانين",
+    "ctaDiscoverAria": "الانتقال إلى صفحة اكتشاف الفنانين",
+    "ctaJoin": "انضم كفنان",
+    "ctaJoinAria": "التسجيل كفنان",
+    "ctaAbout": "من نحن",
+    "ctaAboutAria": "الانتقال إلى صفحة من نحن"
+  },
+  "faq": {
+    "title": "إجابات واضحة للأسئلة الشائعة.",
+    "description": "إرشاد سريع وموثوق حول منصة ART-IST.CLUB والحسابات والاكتشاف وطلبات العمل والموضوعات القانونية.",
+    "ctaContact": "الانتقال إلى التواصل",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل",
+    "ctaDiscover": "اكتشف الفنانين",
+    "ctaDiscoverAria": "الانتقال إلى صفحة اكتشاف الفنانين",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaAbout": "من نحن",
+    "ctaAboutAria": "الانتقال إلى صفحة من نحن"
+  },
+  "terms": {
+    "title": "شروط الاستخدام",
+    "description": "الشروط الأساسية والمسؤوليات السارية عند استخدام منصة ART-IST.CLUB.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "privacy": {
+    "title": "سياسة الخصوصية",
+    "description": "كيف تعالج ART-IST.CLUB البيانات الشخصية المتعلقة بالحسابات والملفات والاكتشاف وطلبات العمل والمراسلة.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "cookies": {
+    "title": "سياسة ملفات تعريف الارتباط",
+    "description": "كيف تستخدم ART-IST.CLUB ملفات تعريف الارتباط والتقنيات المماثلة للتشغيل الأساسي والتفضيلات.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "refund": {
+    "title": "سياسة الاسترجاع",
+    "description": "نهج ART-IST.CLUB بخصوص الاسترجاع لخدمات العضوية والاشتراك المدفوعة المستقبلية.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "subscription": {
+    "title": "شروط الاشتراك",
+    "description": "المبادئ العامة لتشغيل خدمات العضوية والاشتراك المدفوعة المستقبلية على ART-IST.CLUB.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "company": {
+    "title": "معلومات الشركة",
+    "description": "نهج ART-IST.CLUB في الشفافية المؤسسية ونشر معلومات الشركة الموثّقة.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "kvkk": {
+    "title": "إخطار KVKK",
+    "description": "معلومات حول كيفية معالجة ART-IST.CLUB لبياناتك الشخصية.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "explicitConsent": {
+    "title": "نص الموافقة الصريحة",
+    "description": "معلومات منفصلة واختيارية فقط للمعالجات التي قد تتطلب موافقة صريحة.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "electronicCommunications": {
+    "title": "الرسائل الإلكترونية التجارية",
+    "description": "معلومات موافقة اختيارية لرسائل الحملات والإعلانات عبر البريد الإلكتروني.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "distanceSalesPreliminary": {
+    "title": "المعلومات المسبقة للبيع عن بُعد",
+    "description": "إطار المعلومات المسبقة لخدمات الاشتراك المدفوعة.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "distanceSalesAgreement": {
+    "title": "عقد الخدمات عن بُعد / الاشتراك",
+    "description": "إطار تعاقدي لخدمات الاشتراك المدفوعة.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  },
+  "cancellation": {
+    "title": "الإلغاء والعدول",
+    "description": "معلومات عامة حول إلغاء الاشتراك وحق العدول.",
+    "ctaDiscover": "استكشف المنصة",
+    "ctaDiscoverAria": "الانتقال إلى صفحة الاكتشاف",
+    "ctaJoin": "إنشاء حساب",
+    "ctaJoinAria": "الانتقال إلى صفحة التسجيل",
+    "ctaContact": "تواصل معنا",
+    "ctaContactAria": "الانتقال إلى صفحة التواصل"
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "brand": {
+      "name": "Art-ist.Club",
+      "tagline": "El Nuevo Mundo del Arte"
+    },
+  
+    "actions": {
+      "login": "Iniciar sesión",
+      "register": "Registrarse",
+      "join": "Unirse",
+      "logout": "Cerrar sesión",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "continue": "Continuar",
+      "back": "Atrás",
+      "next": "Siguiente",
+      "close": "Cerrar",
+      "search": "Buscar",
+      "discover": "Descubrir",
+      "view": "Ver",
+      "details": "Detalles",
+      "send": "Enviar",
+      "publish": "Publicar",
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "upload": "Subir"
+    },
+  
+    "status": {
+      "loading": "Cargando...",
+      "success": "Correcto",
+      "error": "Ha ocurrido un error",
+      "comingSoon": "Próximamente",
+      "online": "En línea",
+      "offline": "Sin conexión"
+    },
+  
+    "language": {
+      "tr": "Türkçe",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "ar": "العربية"
+    }
+  }

@@ -1,0 +1,76 @@
+{
+  "loading": {
+    "title": "Cargando artistas...",
+    "subtitle": "Preparando el espacio Discovery."
+  },
+  "hero": {
+    "searchPlaceholder": "Busca artista, categoría, ciudad o usuario...",
+    "trendSearches": "Búsquedas en tendencia",
+    "activeCount": "{{count}} activos",
+    "clearFilters": "Borrar filtros",
+    "labels": {
+      "artist": "Artist",
+      "country": "Country",
+      "category": "Categoría",
+      "matching": "Matching"
+    }
+  },
+  "filters": {
+    "title": "Filtros",
+    "smartSearch": "Búsqueda inteligente",
+    "category": "Categoría",
+    "country": "País",
+    "city": "Ciudad",
+    "language": "Idioma",
+    "allCategories": "Todas las categorías",
+    "allCountries": "Todos los países",
+    "allCities": "Todas las ciudades",
+    "allLanguages": "Todos los idiomas",
+    "workMode": "Modo de trabajo",
+    "all": "Todos",
+    "online": "Online",
+    "onsite": "Presencial",
+    "travel": "Viajes",
+    "photoOnly": "Solo perfiles con foto",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "resetAll": "Restablecer todos los filtros"
+  },
+  "featured": {
+    "badge": "Featured Artist",
+    "aiPreview": "AI Preview",
+    "viewProfile": "Ver perfil →",
+    "similarArtists": "Descubrir artistas similares →"
+  },
+  "results": {
+    "title": "Resultados de búsqueda",
+    "listingCount": "{{count}} artistas listados",
+    "subtitle": "Artistas publicados más recientes",
+    "emptyTitle": "No se encontraron resultados",
+    "emptyText": "No hay perfiles publicados o ningún artista coincide con los filtros seleccionados. Borra los filtros e inténtalo de nuevo."
+  },
+  "card": {
+    "artistFallback": "Artista",
+    "addFavorite": "Añadir a favoritos",
+    "removeFavorite": "Quitar de favoritos",
+    "emptyBio": "Este artista aún no ha añadido una breve presentación.",
+    "country": "País",
+    "city": "Ciudad",
+    "views": "Vistas",
+    "worksOnline": "Trabaja online",
+    "workModelSoon": "Modelo de trabajo próximamente",
+    "discoverCta": "Descubrir artista →"
+  },
+  "stats": {
+    "published": "Publicados",
+    "results": "Resultados",
+    "favorites": "Favoritos"
+  },
+  "topArtists": {
+    "artist": "Artista",
+    "views": "vistas"
+  },
+  "fallbacks": {
+    "artist": "Artista"
+  }
+}

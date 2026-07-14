@@ -1,0 +1,46 @@
+{
+    "brand": {
+      "name": "Art-ist.Club",
+      "tagline": "Die Neue Welt der Kunst"
+    },
+  
+    "actions": {
+      "login": "Anmelden",
+      "register": "Registrieren",
+      "join": "Beitreten",
+      "logout": "Abmelden",
+      "save": "Speichern",
+      "cancel": "Abbrechen",
+      "continue": "Weiter",
+      "back": "Zurück",
+      "next": "Weiter",
+      "close": "Schließen",
+      "search": "Suchen",
+      "discover": "Entdecken",
+      "view": "Ansehen",
+      "details": "Details",
+      "send": "Senden",
+      "publish": "Veröffentlichen",
+      "edit": "Bearbeiten",
+      "delete": "Löschen",
+      "upload": "Hochladen"
+    },
+  
+    "status": {
+      "loading": "Wird geladen...",
+      "success": "Erfolgreich",
+      "error": "Ein Fehler ist aufgetreten",
+      "comingSoon": "Demnächst",
+      "online": "Online",
+      "offline": "Offline"
+    },
+  
+    "language": {
+      "tr": "Türkçe",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "ar": "العربية"
+    }
+  }

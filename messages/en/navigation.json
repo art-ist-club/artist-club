@@ -1,0 +1,73 @@
+{
+  "main": {
+    "discover": "Discover",
+    "foundingArtist": "Founding Artist",
+    "vipB2b": "VIP / B2B",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "discover": "Discover",
+    "artists": "Artists",
+    "categories": "Categories",
+    "platform": "Platform",
+    "account": "Account"
+  },
+  "siteFooter": {
+    "description": "The global art platform where talent is discovered and opportunities begin.",
+    "explore": "EXPLORE",
+    "artists": "Artists",
+    "categories": "Categories",
+    "projects": "Projects",
+    "platform": "PLATFORM",
+    "becomeArtist": "Sign Up",
+    "foundingArtist": "Founding Artist",
+    "features": "Features",
+    "help": "HELP",
+    "support": "Support Center",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "company": "COMPANY",
+    "legal": "LEGAL",
+    "about": "About",
+    "terms": "Terms of Use",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "refund": "Refunds",
+    "subscription": "Subscription",
+    "companyInfo": "Company Info",
+    "register": "Sign Up",
+    "login": "Log In",
+    "discoverLink": "Discover",
+    "turkeyLegal": "TR LEGAL",
+    "kvkk": "KVKK Notice",
+    "explicitConsent": "Explicit Consent",
+    "electronicCommunications": "Commercial Email",
+    "distanceSalesPreliminary": "Pre-Information",
+    "distanceSalesAgreement": "Distance Agreement",
+    "cancellation": "Cancel & Withdraw"
+  },
+  "dashboard": {
+    "artist": "Artist Dashboard",
+    "client": "Client Dashboard",
+    "favorites": "Favorites",
+    "messages": "Messages",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Log Out"
+  },
+  "profileSetup": {
+    "basic": "Basic Information",
+    "categories": "Categories",
+    "photo": "Profile Photo",
+    "gallery": "Gallery",
+    "video": "Video",
+    "bio": "About Me",
+    "workArea": "Work Area",
+    "social": "Social Media",
+    "preview": "Preview",
+    "publish": "Publish"
+  }
+}

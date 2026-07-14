@@ -1,0 +1,159 @@
+{
+  "layout": {
+    "backHome": "Ana sayfaya dön",
+    "lastUpdated": "Son güncelleme",
+    "brandHome": "ART-IST.CLUB"
+  },
+  "about": {
+    "title": "Sanatçıları dünyayla buluşturuyoruz.",
+    "description": "ART-IST.CLUB, sanatçıları keşfedilebilir, ulaşılabilir ve profesyonel fırsatlara açık hale getiren global bir dijital platformdur.",
+    "ctaDiscover": "Sanatçıları Keşfet",
+    "ctaJoin": "Sanatçı Olarak Katıl",
+    "ctaDiscoverAria": "Sanatçıları keşfet sayfasına git",
+    "ctaJoinAria": "Sanatçı olarak kayıt ol"
+  },
+  "contact": {
+    "title": "Sizinle doğru noktada buluşuyoruz.",
+    "description": "ART-IST.CLUB; sanatçılar, müşteriler ve kurumsal iş ortakları için net, güvenilir ve profesyonel bir iletişim deneyimi sunmayı hedefler.",
+    "ctaFaq": "SSS’ye git",
+    "ctaFaqAria": "Sıkça sorulan sorular sayfasına git",
+    "ctaDiscover": "Sanatçıları Keşfet",
+    "ctaDiscoverAria": "Sanatçıları keşfet sayfasına git",
+    "ctaJoin": "Sanatçı Olarak Katıl",
+    "ctaJoinAria": "Sanatçı olarak kayıt ol",
+    "ctaAbout": "Hakkımızda",
+    "ctaAboutAria": "Hakkımızda sayfasına git"
+  },
+  "faq": {
+    "title": "Sık sorulan sorulara net cevaplar.",
+    "description": "ART-IST.CLUB platformu, hesaplar, keşif, iş talepleri ve yasal konular hakkında hızlı, güvenilir bilgilendirme.",
+    "ctaContact": "İletişim sayfasına git",
+    "ctaContactAria": "İletişim sayfasına git",
+    "ctaDiscover": "Sanatçıları Keşfet",
+    "ctaDiscoverAria": "Sanatçıları keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaAbout": "Hakkımızda",
+    "ctaAboutAria": "Hakkımızda sayfasına git"
+  },
+  "terms": {
+    "title": "Kullanım Koşulları",
+    "description": "ART-IST.CLUB platformunu kullanarak geçerli olan temel şartlar ve sorumluluklar.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "description": "ART-IST.CLUB’ta hesap, profil, keşif, iş talebi ve mesajlaşma ile ilgili kişisel verilerin nasıl işlendiğine dair bilgilendirme.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "cookies": {
+    "title": "Çerez Politikası",
+    "description": "ART-IST.CLUB’ta çerezlerin ve benzeri teknolojilerin nasıl kullanıldığına dair bilgilendirme.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "refund": {
+    "title": "İade Politikası",
+    "description": "ART-IST.CLUB’ta gelecekteki ücretli üyelik ve abonelik hizmetlerine ilişkin iade yaklaşımı.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "subscription": {
+    "title": "Abonelik Koşulları",
+    "description": "ART-IST.CLUB’ta gelecekteki ücretli üyelik ve abonelik hizmetlerinin genel çalışma prensipleri.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "company": {
+    "title": "Şirket Bilgileri",
+    "description": "ART-IST.CLUB’ın kurumsal şeffaflık yaklaşımı ve resmi şirket bilgilerinin yayınlanma ilkeleri.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "kvkk": {
+    "title": "KVKK Aydınlatma Metni",
+    "description": "Kişisel verilerinizin ART-IST.CLUB tarafından nasıl işlendiğine dair bilgilendirme.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "explicitConsent": {
+    "title": "Açık Rıza Metni",
+    "description": "Yalnızca açık rıza gerektiren işlemler için ayrı ve isteğe bağlı bilgilendirme.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "electronicCommunications": {
+    "title": "Ticari Elektronik İleti Onayı",
+    "description": "Kampanya ve duyuru e-postaları için isteğe bağlı iletişim izni bilgilendirmesi.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "distanceSalesPreliminary": {
+    "title": "Mesafeli Hizmet Ön Bilgilendirme",
+    "description": "Ücretli abonelik hizmetleri için mesafeli satış ön bilgilendirme çerçevesi.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "distanceSalesAgreement": {
+    "title": "Mesafeli Hizmet / Abonelik Sözleşmesi",
+    "description": "Ücretli abonelik hizmetlerine ilişkin mesafeli sözleşme çerçevesi.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  },
+  "cancellation": {
+    "title": "İptal ve Cayma Süreci",
+    "description": "Abonelik iptali ve cayma hakkına ilişkin genel bilgilendirme.",
+    "ctaDiscover": "Platformu Keşfet",
+    "ctaDiscoverAria": "Keşfet sayfasına git",
+    "ctaJoin": "Üye Ol",
+    "ctaJoinAria": "Kayıt sayfasına git",
+    "ctaContact": "İletişime Geç",
+    "ctaContactAria": "İletişim sayfasına git"
+  }
+}

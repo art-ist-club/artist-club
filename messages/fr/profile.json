@@ -1,0 +1,116 @@
+{
+  "setup": {
+    "loading": "Préparation du profil...",
+    "title": "Créer votre profil d'artiste",
+    "stepOf": "Étape {{current}} / {{total}}",
+    "back": "Retour",
+    "continue": "Continuer",
+    "finish": "Terminer",
+    "saving": "Enregistrement...",
+    "publishing": "Publication...",
+    "steps": {
+      "basic": "Informations de base",
+      "photo": "Photo de profil",
+      "bio": "Biographie",
+      "categories": "Catégories",
+      "gallery": "Galerie",
+      "video": "Vidéo",
+      "social": "Réseaux sociaux",
+      "workArea": "Zone d'activité",
+      "preview": "Aperçu",
+      "publish": "Publier"
+    },
+    "alerts": {
+      "usernameRequired": "Le nom d'utilisateur est requis.",
+      "usernameTaken": "Ce nom d'utilisateur est déjà pris. Veuillez en choisir un autre.",
+      "publishSuccess": "Félicitations ! Votre profil est publié."
+    }
+  },
+  "public": {
+    "loading": "Chargement du profil de l'artiste...",
+    "notFound": "Profil introuvable",
+    "noInfo": "Aucune information pour le moment",
+    "contact": "Prendre contact",
+    "sendJobRequest": "📨 Envoyer une demande de mission",
+    "shareProfile": "Partager le profil",
+    "about": "À propos de l'artiste",
+    "achievements": "Réalisations",
+    "workArea": "Zone d'activité",
+    "views": "Vues",
+    "jobRequests": "Demandes de mission",
+    "reviews": "Avis",
+    "worksOnsite": "Travaille sur site",
+    "worksOnline": "Travaille en ligne",
+    "notSpecified": "Non spécifié",
+    "noCategory": "Aucune catégorie spécifiée",
+    "emptyGallery": "Galerie pas encore ajoutée",
+    "emptyAchievements": "Aucune réalisation ajoutée",
+    "emptyWorkArea": "Zone d'activité non spécifiée"
+  },
+  "preview": {
+    "intro": "Vérifie ici comment ton profil apparaîtra aux autres avant publication. S'il manque quelque chose ou si un champ est incorrect, reviens à l'étape concernée via le menu de gauche.",
+    "modeHint": "Cet écran est un aperçu du profil d'artiste qui sera publié.",
+    "previewMode": "Mode aperçu",
+    "artistName": "Nom de l'artiste"
+  },
+  "publish": {
+    "title": "Publier",
+    "description": "Tu as vérifié ton profil. Une fois publié, tu apparaîtras dans Discovery.",
+    "checklistTitle": "Contrôle avant publication",
+    "confirm": "Publier mon profil",
+    "note": "Tu peux modifier à tout moment."
+  },
+  "stepsUi": {
+    "basic": {
+      "fullName": "Nom complet",
+      "username": "Nom d'utilisateur",
+      "tagline": "Slogan court",
+      "country": "Pays",
+      "state": "État / Région",
+      "city": "Ville",
+      "selectCountry": "Choisir un pays",
+      "selectState": "Choisir une région",
+      "selectCity": "Choisir une ville"
+    },
+    "bio": {
+      "title": "Biographie",
+      "placeholder": "Parle de toi..."
+    },
+    "photo": {
+      "title": "Photo de profil",
+      "upload": "Téléverser une photo",
+      "change": "Modifier"
+    },
+    "gallery": {
+      "title": "Galerie",
+      "upload": "Téléverser une image",
+      "empty": "Aucune image pour le moment"
+    },
+    "video": {
+      "title": "Vidéo",
+      "upload": "Téléverser une vidéo",
+      "empty": "Aucune vidéo pour le moment"
+    },
+    "social": {
+      "title": "Réseaux sociaux",
+      "website": "Website",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "x": "X",
+      "linkedin": "LinkedIn"
+    },
+    "categories": {
+      "title": "Catégories",
+      "hint": "Sélectionne les catégories les plus adaptées"
+    },
+    "workArea": {
+      "title": "Zone d'activité",
+      "online": "Je travaille en ligne",
+      "onsite": "Je travaille sur site",
+      "travel": "Je voyage",
+      "selectCountryFirst": "Tu dois d'abord choisir un pays."
+    }
+  }
+}

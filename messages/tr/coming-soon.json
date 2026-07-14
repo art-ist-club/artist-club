@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "Çok Yakında | ART-IST.CLUB",
+    "description": "ART-IST.CLUB global sanatçı keşif platformu çok yakında. Sanatçılar ve işverenler için premium sahne hazırlanıyor."
+  },
+  "eyebrow": "Soft Launch",
+  "brand": "ART-IST.CLUB",
+  "title": "Çok Yakında Buluşuyoruz",
+  "description": "Dünya çapında sanatçıları, markaları ve projeleri bir araya getiren global keşif platformu son dokunuşlarını alıyor. Sahne neredeyse hazır.",
+  "nearOpen": "Platform açılışı çok yakın. İlk üyelikler ve keşif deneyimi kısa süre içinde aktif olacak.",
+  "artistCard": {
+    "title": "Sanatçılar için",
+    "text": "Profesyonel profilini oluştur, portfolyonu sergile ve doğru projelerle buluş."
+  },
+  "clientCard": {
+    "title": "İşverenler için",
+    "text": "Doğrulanan yetenekleri keşfet, taleplerini ilet ve doğru sanatçıyla doğrudan bağlantı kur."
+  },
+  "followTitle": "Bizi Takip Et",
+  "followHint": "Açılışı ilk sen öğren. Bizi sosyal medyada takip et.",
+  "ctaHome": "Ana Sayfaya Dön",
+  "ctaFounding": "Founding Artist Sayfasını İncele",
+  "ctaContact": "İletişim"
+}

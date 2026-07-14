@@ -1,60 +1,88 @@
 import type { Metadata } from "next";
+import { cookies } from "next/headers";
+import LanguageProvider from "@/components/i18n/LanguageProvider";
+import { SoftLaunchProvider } from "@/components/launch/SoftLaunchProvider";
+import { isSoftLaunch } from "@/lib/launch";
+import {
+  defaultLocale,
+  getLocaleDirection,
+  getLocaleHtmlLang,
+  isSupportedLocale,
+  localeCookieName,
+  type Locale,
+} from "@/lib/i18n";
 import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.art-ist.club"),
   title: {
-    default: "ART-IST.CLUB | Global Sanatçı Keşif Platformu",
-    template: "%s | ART-IST.CLUB"
+    default: "ART-IST.CLUB | Global Artist Discovery Platform",
+    template: "%s | ART-IST.CLUB",
   },
   description:
-    "ART-IST.CLUB; oyuncular, müzisyenler, modeller, dansçılar ve yaratıcı yetenekleri yapımcılar, markalar, casting şirketleri ve global fırsatlarla buluşturan premium sanatçı keşif platformudur.",
+    "ART-IST.CLUB is the premium artist discovery platform connecting actors, musicians, models, dancers, and creative talent with producers, brands, casting companies, and global opportunities.",
   keywords: [
     "artist platform",
-    "sanatçı platformu",
     "casting platform",
-    "oyuncu keşif",
-    "müzisyen keşif",
-    "model platformu",
-    "dansçı platformu",
+    "talent discovery",
+    "musician discovery",
+    "model platform",
+    "dance talent",
     "creative talent",
-    "ART-IST.CLUB"
+    "ART-IST.CLUB",
   ],
   authors: [{ name: "ART-IST.CLUB" }],
   creator: "ART-IST.CLUB",
   publisher: "ART-IST.CLUB",
   robots: {
     index: true,
-    follow: true
+    follow: true,
   },
   openGraph: {
-    title: "ART-IST.CLUB | Global Sanatçı Keşif Platformu",
+    title: "ART-IST.CLUB | Global Artist Discovery Platform",
     description:
-      "Sanatçıları yapımcılar, markalar, casting şirketleri ve global yaratıcı fırsatlarla buluşturan premium keşif platformu.",
+      "A premium discovery platform connecting artists with producers, brands, casting companies, and global creative opportunities.",
     url: "https://www.art-ist.club",
     siteName: "ART-IST.CLUB",
-    locale: "tr_TR",
-    type: "website"
+    locale: "en_US",
+    type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ART-IST.CLUB | Global Sanatçı Keşif Platformu",
-    description:
-      "Sanatçıların dünyaya açılan premium sahnesi."
+    title: "ART-IST.CLUB | Global Artist Discovery Platform",
+    description: "The premium stage where artists meet the world.",
   },
   alternates: {
-    canonical: "https://www.art-ist.club"
-  }
+    canonical: "https://www.art-ist.club",
+  },
 };
 
-export default function RootLayout({
-  children
+function resolveInitialLocale(raw: string | undefined): Locale {
+  return isSupportedLocale(raw) ? raw : defaultLocale;
+}
+
+export default async function RootLayout({
+  children,
 }: {
   children: React.ReactNode;
 }) {
+  const cookieStore = await cookies();
+  const initialLocale = resolveInitialLocale(
+    cookieStore.get(localeCookieName)?.value
+  );
+  const htmlLang = getLocaleHtmlLang(initialLocale);
+  const direction = getLocaleDirection(initialLocale);
+  const softLaunch = isSoftLaunch();
+
   return (
-    <html lang="tr">
-      <body>{children}</body>
+    <html lang={htmlLang} dir={direction}>
+      <body>
+        <LanguageProvider initialLocale={initialLocale}>
+          <SoftLaunchProvider value={softLaunch}>
+            {children}
+          </SoftLaunchProvider>
+        </LanguageProvider>
+      </body>
     </html>
   );
 }

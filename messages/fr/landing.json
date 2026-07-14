@@ -1,0 +1,122 @@
+{
+    "hero": {
+      "eyebrow": "Plateforme Artistique Mondiale",
+      "titleStart": "L'avenir de l'art",
+      "titleHighlight": "commence ici.",
+      "description": "Acteurs, musiciens, danseurs, mannequins et talents créatifs rencontrent des clients, des marques, des producteurs et des agences sur une seule plateforme mondiale.",
+      "discoverCta": "Découvrir les artistes",
+      "foundingCta": "Devenir Founding Artist"
+    },
+    "trust": {
+      "discover": {
+        "title": "Découvrir les artistes",
+        "description": "Rechercher par catégorie et lieu"
+      },
+      "directContact": {
+        "title": "Contact direct",
+        "description": "Se connecter sans intermédiaire"
+      },
+      "founding": {
+        "title": "Founding Artist",
+        "description": "Rejoindre la première communauté"
+      },
+      "safe": {
+        "title": "Plateforme sécurisée",
+        "description": "Transparente et fiable"
+      }
+    },
+    "categories": {
+      "sectionTitle": "Toutes les catégories",
+      "acting": {
+        "title": "Cinéma",
+        "description": "Acteurs & Performeurs"
+      },
+      "music": {
+        "title": "Musique",
+        "description": "Chanteurs & Musiciens"
+      },
+      "dance": {
+        "title": "Danse",
+        "description": "Danseurs & Chorégraphes"
+      },
+      "model": {
+        "title": "Mannequin",
+        "description": "Mannequins & Visages"
+      },
+      "photography": {
+        "title": "Photographie",
+        "description": "Photographes & Équipe Créative"
+      },
+      "influencer": {
+        "title": "Influenceur",
+        "description": "Créateur de contenu"
+      },
+      "filmProduction": {
+        "title": "Film & Production",
+        "description": "Réalisateurs & Production"
+      },
+      "all": {
+        "title": "Toutes les catégories",
+        "description": "Découvrir plus de 20 catégories"
+      }
+    },
+    "artists": {
+      "actor": "Acteur",
+      "singer": "Chanteur",
+      "dancer": "Danseur",
+      "photographer": "Photographe",
+      "locations": {
+        "istanbulTurkey": "Istanbul, Turquie",
+        "berlinGermany": "Berlin, Allemagne",
+        "milanItaly": "Milan, Italie",
+        "madridSpain": "Madrid, Espagne",
+        "parisFrance": "Paris, France"
+      }
+    },
+    "founding": {
+      "badgeAlt": "Badge Founding Artist Art-ist.Club",
+      "limitedPeriod": "Durée limitée",
+      "title": "Réservez votre place avant la croissance de la plateforme.",
+      "description": "Rejoignez la première communauté, obtenez votre badge permanent Founding Artist et profitez d'avantages exclusifs.",
+      "discoverBenefits": "Découvrir tous les avantages",
+      "detailsCta": "Voir les détails",
+      "benefits": {
+        "permanentBadge": "Badge permanent",
+        "priorityVisibility": "Visibilité prioritaire",
+        "foundingCommunity": "Communauté fondatrice"
+      },
+      "countdown": {
+        "title": "Fin de la campagne dans",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes",
+        "ended": "Campagne terminée",
+        "deadline": "Dernière inscription : 30.06.2027 · 00:00"
+      }
+    },
+    "vip": {
+      "title": "Accédez directement aux meilleurs talents.",
+      "description": "Découvrez les artistes par catégorie et localisation pour votre projet.",
+      "cta": "Découvrir les artistes",
+      "examples": {
+        "actorIstanbul": "Acteur · Istanbul",
+        "musicianBerlin": "Musicien · Berlin",
+        "dancerIzmir": "Danseur · Izmir",
+        "modelParis": "Mannequin · Paris"
+      }
+    },
+    "stats": {
+      "countries": "Pays & Régions",
+      "cities": "Villes",
+      "access": "Accès à la plateforme",
+      "panels": "Espaces Artistes & Clients"
+    },
+    "footer": {
+      "description": "La plateforme mondiale qui met directement en relation les artistes et leurs clients.",
+      "rights": "Tous droits réservés."
+    },
+    "languageSelector": {
+      "label": "Choisir la langue"
+    }
+  }

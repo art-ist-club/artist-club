@@ -1,0 +1,240 @@
+{
+  "navigation": {
+    "advantages": "Ventajas",
+    "vision": "Visión",
+    "faq": "FAQ",
+    "login": "Iniciar sesión",
+    "join": "Hazte Founding Artist"
+  },
+  "hero": {
+    "badge": "Tiempo limitado",
+    "titleLine1": "FOUNDING",
+    "titleLine2": "ARTIST",
+    "subtitle": "Sé uno de los primeros artistas fundadores de ART-IST.CLUB.",
+    "description": "Asegura tu lugar desde el principio en el nuevo ecosistema artístico global que reunirá a artistas, clientes, marcas y oportunidades de todo el mundo en una sola plataforma.",
+    "joinCta": "Hazte Founding Artist",
+    "offerCta": "Ver la oferta",
+    "badgeAlt": "Insignia Founding Artist de ART-IST.CLUB"
+  },
+  "countdown": {
+    "headline": "¡Últimos días para esta oferta exclusiva!",
+    "description": "La campaña Founding Artist es válida únicamente hasta el 30 de junio de 2027.",
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos",
+    "campaignEnd": "Fin de la campaña",
+    "date": "30 de junio de 2027",
+    "finalNote": "Esta oferta no volverá a ofrecerse."
+  },
+  "visionTimeline": {
+    "eyebrow": "¿Por qué ahora?",
+    "title": "El momento adecuado da forma al futuro.",
+    "description": "Únete antes de que la plataforma crezca. Consigue las primeras ventajas y asegura tu lugar en el futuro desde ya.",
+    "items": [
+      {
+        "year": "2026",
+        "title": "MVP y comunidad",
+        "text": "La base de la plataforma, perfiles de artistas e infraestructura de descubrimiento global."
+      },
+      {
+        "year": "2027",
+        "title": "Global Launch",
+        "text": "Promoción internacional, SEO, publicidad y crecimiento de la comunidad artística."
+      },
+      {
+        "year": "2028",
+        "title": "Worldwide Growth",
+        "text": "Expansión con marcas, agencias, productores y empresas de eventos."
+      },
+      {
+        "year": "2029+",
+        "title": "Plataforma líder",
+        "text": "Uno de los ecosistemas de artistas y oportunidades más potentes del mundo."
+      }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Ventajas Founding",
+    "title": "Privilegios exclusivos solo para Founding Artists.",
+    "items": [
+      {
+        "icon": "✦",
+        "title": "Insignia Founding permanente",
+        "text": "Una insignia especial de por vida en tu perfil que te distingue como uno de los artistas fundadores originales."
+      },
+      {
+        "icon": "24",
+        "title": "2 años de membresía completa",
+        "text": "24 meses de membresía Premium Artist a partir de la fecha de tu registro."
+      },
+      {
+        "icon": "↑",
+        "title": "Visibilidad prioritaria",
+        "text": "Gana una ventaja temprana de descubrimiento mientras la plataforma sigue creciendo."
+      },
+      {
+        "icon": "◈",
+        "title": "Acceso anticipado a nuevas funciones",
+        "text": "Sé de los primeros en usar nuevas herramientas, funciones de visibilidad y oportunidades."
+      },
+      {
+        "icon": "◎",
+        "title": "Comunidad exclusiva",
+        "text": "Accede a comunicaciones, oportunidades y anuncios exclusivos de la comunidad Founding Artist."
+      },
+      {
+        "icon": "∞",
+        "title": "Ventajas futuras",
+        "text": "Obtén nuevos privilegios vinculados a tu estatus Founding Artist a medida que la plataforma crece."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Campaña especial",
+    "titleLine1": "Paga una vez,",
+    "titleLine2": "gana 2 años.",
+    "features": [
+      "2 años de membresía completa desde la fecha de registro",
+      "Campaña Founding Artist: hasta el 30.06.2027",
+      "Precio estándar tras la campaña: 49.99 USD / año",
+      "Insignia Founding Artist permanente",
+      "Este precio no volverá a ofrecerse"
+    ],
+    "socialProof": "Asegura tu lugar entre los primeros artistas fundadores.",
+    "bestOffer": "Mejor oferta",
+    "plan": "Founding Artist",
+    "originalPrice": "49.99 USD",
+    "campaignPrice": "24.99",
+    "currency": "USD",
+    "discount": "50 % de descuento por acceso anticipado",
+    "paymentType": "Pago único",
+    "membershipDuration": "Membresía de 2 años",
+    "extraBenefit": "+ 1 año extra de membresía",
+    "joinCta": "Hazte Founding Artist",
+    "paymentNote": "🔒 La infraestructura de pago seguro estará activa pronto",
+    "comparisonTitle": "Comparación",
+    "foundingTitle": "Founding Artist",
+    "foundingPrice": "24.99 USD / 2 años",
+    "foundingNote": "Equivalente a 12.50 USD / año",
+    "standardTitle": "Membresía estándar",
+    "standardPrice": "49.99 USD / año",
+    "standardNote": "Sin insignia Founding ni ventajas exclusivas",
+    "highlightTitle": "Mitad de precio + el doble de duración",
+    "highlightText": "Normalmente 49.99 USD por 1 año. Ahora paga 24.99 USD y obtén 2 años de membresía."
+  },
+  "globalVision": {
+    "eyebrow": "Nuestra visión",
+    "title": "Eliminamos las fronteras.",
+    "description": "Reunimos a artistas y oportunidades en una sola plataforma global y construimos una de las redes de artistas más grandes del mundo.",
+    "imageAlt": "ART-IST.CLUB global artist network",
+    "stats": [
+      {
+        "value": "200M+",
+        "label": "Artistas potenciales"
+      },
+      {
+        "value": "190+",
+        "label": "Países"
+      },
+      {
+        "value": "∞",
+        "label": "Oportunidades"
+      }
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "¿Cómo funciona?",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Crea tu perfil",
+        "text": "Preséntate de la mejor manera."
+      },
+      {
+        "number": "02",
+        "title": "Sé descubierto",
+        "text": "Hazte visible desde cualquier parte del mundo."
+      },
+      {
+        "number": "03",
+        "title": "Aprovecha las oportunidades",
+        "text": "Conéctate con solicitudes de trabajo y proyectos."
+      },
+      {
+        "number": "04",
+        "title": "Haz crecer tu carrera",
+        "text": "Lleva tu arte al mundo."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Lo que debes saber antes de decidir.",
+    "items": [
+      {
+        "question": "¿Hasta cuándo es válida la campaña Founding Artist?",
+        "answer": "La campaña es válida para los artistas que se registren hasta el 30 de junio de 2027."
+      },
+      {
+        "question": "¿Cuándo comienza mi membresía de 2 años?",
+        "answer": "Tu membresía de 24 meses comienza en el momento en que el pago se completa con éxito."
+      },
+      {
+        "question": "¿Cuál será el precio después de la campaña?",
+        "answer": "Tras finalizar la campaña Founding Artist, la membresía Artist estándar costará 49.99 USD al año."
+      },
+      {
+        "question": "¿La insignia Founding Artist es permanente?",
+        "answer": "Sí. La insignia Founding Artist permanecerá de forma permanente en el perfil de los artistas que se unan durante la campaña."
+      },
+      {
+        "question": "¿Mi membresía se renueva automáticamente después de 2 años?",
+        "answer": "Sí. Al finalizar tus 24 meses, tu membresía Founding Artist se renueva automáticamente al precio anual estándar. Puedes cancelar como máximo 30 días antes de la fecha de renovación para evitar el cobro del siguiente período."
+      },
+      {
+        "question": "¿Cuándo se activa mi membresía?",
+        "answer": "Cuando tu pago se complete con éxito, tu membresía Founding Artist se activa de inmediato y tu período de 24 meses comienza al mismo tiempo."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Únete a los artistas fundadores",
+    "title": "Sé parte del futuro.",
+    "description": "Completa tu registro antes del 30 de junio de 2027 y conviértete en uno de los primeros Founding Artists de ART-IST.CLUB.",
+    "button": "Hazte Founding Artist"
+  },
+  "footer": {
+    "description": "Reunimos a los artistas, las oportunidades y los profesionales creativos del mundo en una sola plataforma.",
+    "columns": {
+      "platform": {
+        "title": "Plataforma",
+        "links": [
+          "Descubrir",
+          "Artistas",
+          "¿Cómo funciona?",
+          "Precios"
+        ]
+      },
+      "company": {
+        "title": "Empresa",
+        "links": [
+          "Sobre nosotros",
+          "Contacto",
+          "Carreras",
+          "Prensa"
+        ]
+      },
+      "legal": {
+        "title": "Legal",
+        "links": [
+          "Términos de uso",
+          "Política de privacidad",
+          "Política de cookies",
+          "Política de reembolso"
+        ]
+      }
+    },
+    "copyright": "© 2026 ART-IST.CLUB — Todos los derechos reservados."
+  }
+}

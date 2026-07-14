@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "📨 Enviar solicitud de trabajo",
+    "subtitle": "Envía los detalles del trabajo y tu información de contacto para llegar al artista.",
+    "jobDetails": "Detalles del trabajo",
+    "contactInfo": "Información de contacto",
+    "cancel": "Cancelar",
+    "sending": "Enviando...",
+    "send": "Enviar solicitud de trabajo",
+    "closeAria": "Cerrar",
+    "success": "Tu solicitud de trabajo se envió correctamente.",
+    "errors": {
+      "artistMissing": "No se encontró la información del artista. Actualiza la página e inténtalo de nuevo.",
+      "jobType": "Indica el tipo de trabajo.",
+      "country": "Indica el país.",
+      "city": "Indica la ciudad.",
+      "name": "Indica tu nombre completo.",
+      "phone": "Introduce tu teléfono.",
+      "email": "Introduce tu correo electrónico.",
+      "loginRequired": "Debes iniciar sesión para enviar una solicitud de trabajo.",
+      "sendFailed": "No se pudo enviar la solicitud de trabajo. Inténtalo de nuevo."
+    }
+  },
+  "list": {
+    "loading": "Cargando solicitudes de trabajo...",
+    "empty": "Aún no hay solicitudes de trabajo.",
+    "emptyHint": "Las solicitudes de los clientes aparecerán aquí.",
+    "openChat": "Abrir conversación →",
+    "message": "Mensaje de la solicitud",
+    "noDate": "Fecha no especificada",
+    "noConversation": "Sin conversación",
+    "artistLoadError": "No se pudo cargar el perfil del artista.",
+    "loadError": "No se pudieron cargar las solicitudes de trabajo.",
+    "phone": "Teléfono",
+    "email": "E-Mail"
+  }
+}

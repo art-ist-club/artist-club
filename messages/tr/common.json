@@ -1,0 +1,46 @@
+{
+  "brand": {
+    "name": "Art-ist.Club",
+    "tagline": "Sanatın Yeni Dünyası"
+  },
+
+  "actions": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "join": "Üye Ol",
+    "logout": "Çıkış Yap",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "continue": "Devam Et",
+    "back": "Geri",
+    "next": "İleri",
+    "close": "Kapat",
+    "search": "Ara",
+    "discover": "Keşfet",
+    "view": "İncele",
+    "details": "Detaylar",
+    "send": "Gönder",
+    "publish": "Yayınla",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "upload": "Yükle"
+  },
+
+  "status": {
+    "loading": "Yükleniyor...",
+    "success": "Başarılı",
+    "error": "Bir hata oluştu",
+    "comingSoon": "Çok Yakında",
+    "online": "Çevrimiçi",
+    "offline": "Çevrimdışı"
+  },
+
+  "language": {
+    "tr": "Türkçe",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ar": "العربية"
+  }
+}

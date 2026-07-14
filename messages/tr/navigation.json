@@ -1,0 +1,73 @@
+{
+  "main": {
+    "discover": "Keşfet",
+    "foundingArtist": "Founding Artist",
+    "vipB2b": "VIP / B2B",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "footer": {
+    "discover": "Keşfet",
+    "artists": "Sanatçılar",
+    "categories": "Kategoriler",
+    "platform": "Platform",
+    "account": "Hesap"
+  },
+  "siteFooter": {
+    "description": "Yeteneklerin keşfedildiği, fırsatların başladığı global sanat platformu.",
+    "explore": "KEŞFET",
+    "artists": "Sanatçılar",
+    "categories": "Kategoriler",
+    "projects": "Projeler",
+    "platform": "PLATFORM",
+    "becomeArtist": "Üye Ol",
+    "foundingArtist": "Founding Artist",
+    "features": "Özellikler",
+    "help": "YARDIM",
+    "support": "Destek Merkezi",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "company": "ŞİRKET",
+    "legal": "YASAL",
+    "about": "Hakkımızda",
+    "terms": "Kullanım Koşulları",
+    "privacy": "Gizlilik",
+    "cookies": "Çerezler",
+    "refund": "İade",
+    "subscription": "Abonelik",
+    "companyInfo": "Şirket Bilgileri",
+    "register": "Üye Ol",
+    "login": "Giriş Yap",
+    "discoverLink": "Keşfet",
+    "turkeyLegal": "TÜRKİYE YASAL",
+    "kvkk": "KVKK Aydınlatma",
+    "explicitConsent": "Açık Rıza",
+    "electronicCommunications": "Ticari İleti",
+    "distanceSalesPreliminary": "Ön Bilgilendirme",
+    "distanceSalesAgreement": "Mesafeli Sözleşme",
+    "cancellation": "İptal ve Cayma"
+  },
+  "dashboard": {
+    "artist": "Artist Paneli",
+    "client": "Client Paneli",
+    "favorites": "Favoriler",
+    "messages": "Mesajlar",
+    "notifications": "Bildirimler",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "logout": "Çıkış Yap"
+  },
+  "profileSetup": {
+    "basic": "Temel Bilgiler",
+    "categories": "Kategoriler",
+    "photo": "Profil Fotoğrafı",
+    "gallery": "Galeri",
+    "video": "Video",
+    "bio": "Hakkımda",
+    "workArea": "Çalışma Alanı",
+    "social": "Sosyal Medya",
+    "preview": "Önizleme",
+    "publish": "Yayınla"
+  }
+}

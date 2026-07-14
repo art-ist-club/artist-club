@@ -1,0 +1,241 @@
+{
+    "navigation": {
+      "advantages": "Avantajlar",
+      "vision": "Vizyon",
+      "faq": "SSS",
+      "login": "Giriş Yap",
+      "join": "Founding Artist Ol"
+    },
+    "hero": {
+      "badge": "Sınırlı Süre",
+      "titleLine1": "FOUNDING",
+      "titleLine2": "ARTIST",
+      "subtitle": "ART-IST.CLUB'un ilk kurucu sanatçılarından biri ol.",
+      "description": "Dünyanın dört bir yanındaki sanatçıları, müşterileri, markaları ve fırsatları tek platformda buluşturacak yeni global sanatçı ekosisteminde yerini erkenden al.",
+      "joinCta": "Founding Artist Ol",
+      "offerCta": "Teklifi İncele",
+      "badgeAlt": "ART-IST.CLUB Founding Artist rozeti"
+    },
+    "countdown": {
+      "headline": "Bu özel teklif için son günler!",
+      "description": "Founding Artist kampanyası yalnızca 30 Haziran 2027 tarihine kadar geçerlidir.",
+      "days": "Gün",
+      "hours": "Saat",
+      "minutes": "Dakika",
+      "seconds": "Saniye",
+      "campaignEnd": "Kampanya Bitişi",
+      "date": "30 Haziran 2027",
+      "finalNote": "Bu teklif tekrar sunulmayacak."
+    },
+    "visionTimeline": {
+      "eyebrow": "Neden Şimdi?",
+      "title": "Doğru zaman, geleceği şekillendirir.",
+      "description": "Platform büyümeden önce katıl. İlk avantajları sen kazan, gelecekteki yerini erkenden güvence altına al.",
+      "items": [
+        {
+          "year": "2026",
+          "title": "MVP & Topluluk",
+          "text": "Platformun temeli, sanatçı profilleri ve global keşif altyapısı."
+        },
+        {
+          "year": "2027",
+          "title": "Global Launch",
+          "text": "Uluslararası tanıtım, SEO, reklam ve sanatçı topluluğunun büyümesi."
+        },
+        {
+          "year": "2028",
+          "title": "Worldwide Growth",
+          "text": "Markalar, ajanslar, yapımcılar ve etkinlik şirketleriyle genişleme."
+        },
+        {
+          "year": "2029+",
+          "title": "Lider Platform",
+          "text": "Dünyanın en güçlü sanatçı ve fırsat ekosistemlerinden biri."
+        }
+      ]
+    },
+    "benefits": {
+      "eyebrow": "Founding Avantajları",
+      "title": "Sadece Founding Artist'lere özel ayrıcalıklar.",
+      "items": [
+        {
+          "icon": "✦",
+          "title": "Kalıcı Founding Rozeti",
+          "text": "Profilinde seni ilk kurucu sanatçılardan biri olarak ömür boyu ayıran özel rozet."
+        },
+        {
+          "icon": "24",
+          "title": "2 Yıl Tam Üyelik",
+          "text": "Kayıt olduğun tarihten itibaren 24 ay boyunca Premium Artist üyeliği."
+        },
+        {
+          "icon": "↑",
+          "title": "Öncelikli Görünürlük",
+          "text": "Platform büyürken profilinin keşfedilme avantajını erkenden kazan."
+        },
+        {
+          "icon": "◈",
+          "title": "Yeni Özelliklere Erken Erişim",
+          "text": "Yeni araçları, görünürlük özelliklerini ve fırsatları ilk kullananlardan ol."
+        },
+        {
+          "icon": "◎",
+          "title": "Özel Topluluk",
+          "text": "Founding Artist topluluğuna özel iletişim, fırsat ve duyurulara eriş."
+        },
+        {
+          "icon": "∞",
+          "title": "Gelecek Avantajları",
+          "text": "Platform büyüdükçe Founding Artist statüne bağlı yeni ayrıcalıklar kazan."
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Özel Kampanya",
+      "titleLine1": "1 kez öde,",
+      "titleLine2": "2 yıl kazan.",
+      "features": [
+        "Kayıt tarihinden itibaren 2 yıl tam üyelik",
+        "Founding Artist kampanyası: 30.06.2027'ye kadar",
+        "Kampanya sonrası standart fiyat: 49.99 USD / yıl",
+        "Kalıcı Founding Artist rozeti",
+        "Bu fiyat bir daha olmayacak"
+      ],
+      "socialProof": "İlk kurucu sanatçılar arasında yerini al.",
+      "bestOffer": "En İyi Teklif",
+      "plan": "Founding Artist",
+      "originalPrice": "49.99 USD",
+      "campaignPrice": "24.99",
+      "currency": "USD",
+      "discount": "%50 Erken Katılım İndirimi",
+      "paymentType": "Tek Ödeme",
+      "membershipDuration": "2 Yıl Üyelik",
+      "extraBenefit": "+ 1 yıl ekstra üyelik avantajı",
+      "joinCta": "Founding Artist Ol",
+      "paymentNote": "🔒 Güvenli ödeme altyapısı yakında aktif olacak",
+      "comparisonTitle": "Karşılaştırma",
+      "foundingTitle": "Founding Artist",
+      "foundingPrice": "24.99 USD / 2 yıl",
+      "foundingNote": "12.50 USD / yıl eşdeğeri",
+      "standardTitle": "Standart Üyelik",
+      "standardPrice": "49.99 USD / yıl",
+      "standardNote": "Founding rozeti ve özel avantajlar yok",
+      "highlightTitle": "Yarı fiyat + iki kat süre",
+      "highlightText": "Normalde 1 yıl 49.99 USD. Şimdi 24.99 USD öde, 2 yıl üye ol."
+    },
+    "globalVision": {
+      "eyebrow": "Vizyonumuz",
+      "title": "Sınırları kaldırıyoruz.",
+      "description": "Sanatçıları ve fırsatları tek bir global platformda buluşturuyor, dünyanın en büyük sanatçı ağlarından birini kuruyoruz.",
+      "imageAlt": "ART-IST.CLUB global artist network",
+      "stats": [
+        {
+          "value": "200M+",
+          "label": "Potansiyel Sanatçı"
+        },
+        {
+          "value": "190+",
+          "label": "Ülke"
+        },
+        {
+          "value": "∞",
+          "label": "Fırsat"
+        }
+      ]
+    },
+    "howItWorks": {
+      "eyebrow": "Nasıl Çalışır?",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Profilini Oluştur",
+          "text": "Kendini en iyi şekilde tanıt."
+        },
+        {
+          "number": "02",
+          "title": "Keşfedil",
+          "text": "Dünyanın her yerinden görünür ol."
+        },
+        {
+          "number": "03",
+          "title": "Fırsatları Yakala",
+          "text": "İş talepleri ve projelerle buluş."
+        },
+        {
+          "number": "04",
+          "title": "Kariyerini Büyüt",
+          "text": "Sanatını dünyaya taşı."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Sıkça Sorulan Sorular",
+      "title": "Karar vermeden önce bilmen gerekenler.",
+      "items": [
+        {
+          "question": "Founding Artist kampanyası ne zamana kadar geçerli?",
+          "answer": "Kampanya 30 Haziran 2027 tarihine kadar kayıt olan sanatçılar için geçerlidir."
+        },
+        {
+          "question": "2 yıllık üyeliğim ne zaman başlar?",
+          "answer": "24 aylık üyeliğin, ödemenin başarıyla tamamlandığı anda başlar."
+        },
+        {
+          "question": "Kampanya bittikten sonra fiyat ne olacak?",
+          "answer": "Founding Artist kampanyası sona erdikten sonra standart Artist üyeliği yıllık 49.99 USD olacaktır."
+        },
+        {
+          "question": "Founding Artist rozeti kalıcı mı?",
+          "answer": "Evet. Founding Artist rozeti, kampanya döneminde katılan sanatçıların profilinde kalıcı olarak yer alacaktır."
+        },
+        {
+          "question": "Üyeliğim 2 yıl sonra otomatik yenilenir mi?",
+          "answer": "Evet. Founding Artist üyeliğin 24 ayın sonunda standart yıllık üyelik fiyatı üzerinden otomatik olarak yenilenir. Yenileme tarihinden en geç 30 gün önce iptal ederek sonraki dönem ücretlendirmesini durdurabilirsin."
+        },
+        {
+          "question": "Üyeliğim ne zaman aktif olur?",
+          "answer": "Ödemen başarıyla tamamlandığında Founding Artist üyeliğin hemen aktif olur ve 24 aylık üyelik süren aynı anda başlar."
+        }
+      ]
+    },
+    "finalCta": {
+      "eyebrow": "Kurucu Sanatçılar Arasına Katıl",
+      "title": "Geleceğin bir parçası ol.",
+      "description": "30 Haziran 2027'ye kadar kaydını tamamla, ART-IST.CLUB'un ilk Founding Artist'lerinden biri ol.",
+      "button": "Founding Artist Ol"
+    },
+    "footer": {
+      "description": "Dünyanın sanatçılarını, fırsatlarını ve yaratıcı profesyonellerini tek platformda buluşturuyoruz.",
+      "columns": {
+        "platform": {
+          "title": "Platform",
+          "links": [
+            "Keşfet",
+            "Sanatçılar",
+            "Nasıl Çalışır?",
+            "Fiyatlandırma"
+          ]
+        },
+        "company": {
+          "title": "Şirket",
+          "links": [
+            "Hakkımızda",
+            "İletişim",
+            "Kariyer",
+            "Basın"
+          ]
+        },
+        "legal": {
+          "title": "Yasal",
+          "links": [
+            "Kullanım Şartları",
+            "Gizlilik Politikası",
+            "Çerez Politikası",
+            "İade Politikası"
+          ]
+        }
+      },
+      "copyright": "© 2026 ART-IST.CLUB — Tüm hakları saklıdır."
+    }
+  }
+  

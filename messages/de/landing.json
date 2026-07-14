@@ -1,0 +1,122 @@
+{
+    "hero": {
+      "eyebrow": "Globale Künstlerplattform",
+      "titleStart": "Die Zukunft der Kunst",
+      "titleHighlight": "beginnt hier.",
+      "description": "Schauspieler, Musiker, Tänzer, Models und kreative Talente treffen Kunden, Marken, Produzenten und Agenturen auf einer globalen Plattform.",
+      "discoverCta": "Künstler entdecken",
+      "foundingCta": "Founding Artist werden"
+    },
+    "trust": {
+      "discover": {
+        "title": "Künstler entdecken",
+        "description": "Nach Kategorie und Standort suchen"
+      },
+      "directContact": {
+        "title": "Direkter Kontakt",
+        "description": "Ohne Vermittler verbinden"
+      },
+      "founding": {
+        "title": "Founding Artist",
+        "description": "Teil der ersten Community werden"
+      },
+      "safe": {
+        "title": "Sichere Plattform",
+        "description": "Transparent und vertrauenswürdig"
+      }
+    },
+    "categories": {
+      "sectionTitle": "Alle Kategorien",
+      "acting": {
+        "title": "Schauspiel",
+        "description": "Schauspieler & Performer"
+      },
+      "music": {
+        "title": "Musik",
+        "description": "Sänger & Musiker"
+      },
+      "dance": {
+        "title": "Tanz",
+        "description": "Tänzer & Choreografen"
+      },
+      "model": {
+        "title": "Model",
+        "description": "Models & Gesichter"
+      },
+      "photography": {
+        "title": "Fotografie",
+        "description": "Fotografen & Kreativteam"
+      },
+      "influencer": {
+        "title": "Influencer",
+        "description": "Content Creator"
+      },
+      "filmProduction": {
+        "title": "Film & Produktion",
+        "description": "Regie & Produktion"
+      },
+      "all": {
+        "title": "Alle Kategorien",
+        "description": "20+ Kategorien entdecken"
+      }
+    },
+    "artists": {
+      "actor": "Schauspieler",
+      "singer": "Sänger",
+      "dancer": "Tänzer",
+      "photographer": "Fotograf",
+      "locations": {
+        "istanbulTurkey": "Istanbul, Türkei",
+        "berlinGermany": "Berlin, Deutschland",
+        "milanItaly": "Mailand, Italien",
+        "madridSpain": "Madrid, Spanien",
+        "parisFrance": "Paris, Frankreich"
+      }
+    },
+    "founding": {
+      "badgeAlt": "Art-ist.Club Founding Artist Abzeichen",
+      "limitedPeriod": "Begrenzte Zeit",
+      "title": "Sichere dir deinen Platz, bevor die Plattform wächst.",
+      "description": "Werde Teil der ersten Community, erhalte das permanente Founding Artist Abzeichen und exklusive Vorteile.",
+      "discoverBenefits": "Alle Vorteile entdecken",
+      "detailsCta": "Details ansehen",
+      "benefits": {
+        "permanentBadge": "Permanentes Abzeichen",
+        "priorityVisibility": "Bevorzugte Sichtbarkeit",
+        "foundingCommunity": "Gründer-Community"
+      },
+      "countdown": {
+        "title": "Kampagne endet in",
+        "days": "Tage",
+        "hours": "Stunden",
+        "minutes": "Minuten",
+        "seconds": "Sekunden",
+        "ended": "Kampagne beendet",
+        "deadline": "Letzte Teilnahme: 30.06.2027 · 00:00"
+      }
+    },
+    "vip": {
+      "title": "Direkter Zugang zu den richtigen Talenten.",
+      "description": "Finde Künstler nach Kategorie und Standort für dein Projekt.",
+      "cta": "Künstler entdecken",
+      "examples": {
+        "actorIstanbul": "Schauspieler · Istanbul",
+        "musicianBerlin": "Musiker · Berlin",
+        "dancerIzmir": "Tänzer · Izmir",
+        "modelParis": "Model · Paris"
+      }
+    },
+    "stats": {
+      "countries": "Länder & Regionen",
+      "cities": "Städte",
+      "access": "Plattformzugang",
+      "panels": "Künstler- & Kundenbereiche"
+    },
+    "footer": {
+      "description": "Die globale Plattform, die Künstler direkt mit Auftraggebern verbindet.",
+      "rights": "Alle Rechte vorbehalten."
+    },
+    "languageSelector": {
+      "label": "Sprache auswählen"
+    }
+  }

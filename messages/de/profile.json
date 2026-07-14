@@ -1,0 +1,116 @@
+{
+  "setup": {
+    "loading": "Profil wird vorbereitet...",
+    "title": "Künstlerprofil erstellen",
+    "stepOf": "Schritt {{current}} / {{total}}",
+    "back": "Zurück",
+    "continue": "Weiter",
+    "finish": "Abschließen",
+    "saving": "Wird gespeichert...",
+    "publishing": "Wird veröffentlicht...",
+    "steps": {
+      "basic": "Grunddaten",
+      "photo": "Profilfoto",
+      "bio": "Biografie",
+      "categories": "Kategorien",
+      "gallery": "Galerie",
+      "video": "Video",
+      "social": "Soziale Medien",
+      "workArea": "Arbeitsbereich",
+      "preview": "Vorschau",
+      "publish": "Veröffentlichen"
+    },
+    "alerts": {
+      "usernameRequired": "Benutzername ist erforderlich.",
+      "usernameTaken": "Dieser Benutzername ist vergeben. Bitte wählen Sie einen anderen.",
+      "publishSuccess": "Herzlichen Glückwunsch! Ihr Profil ist veröffentlicht."
+    }
+  },
+  "public": {
+    "loading": "Künstlerprofil wird geladen...",
+    "notFound": "Profil nicht gefunden",
+    "noInfo": "Noch keine Informationen",
+    "contact": "Kontakt aufnehmen",
+    "sendJobRequest": "📨 Jobanfrage senden",
+    "shareProfile": "Profil teilen",
+    "about": "Über den Künstler",
+    "achievements": "Erfolge",
+    "workArea": "Arbeitsbereich",
+    "views": "Aufrufe",
+    "jobRequests": "Jobanfragen",
+    "reviews": "Bewertungen",
+    "worksOnsite": "Arbeitet vor Ort",
+    "worksOnline": "Arbeitet online",
+    "notSpecified": "Nicht angegeben",
+    "noCategory": "Keine Kategorie angegeben",
+    "emptyGallery": "Noch keine Galerie hinzugefügt",
+    "emptyAchievements": "Keine Erfolge hinzugefügt",
+    "emptyWorkArea": "Kein Arbeitsbereich angegeben"
+  },
+  "preview": {
+    "intro": "Prüfe hier, wie dein Profil vor der Veröffentlichung von außen aussieht. Fehlt etwas oder ist etwas falsch, kehre über das linke Menü zum entsprechenden Schritt zurück.",
+    "modeHint": "Dieser Bildschirm ist eine Vorschau des zu veröffentlichenden Künstlerprofils.",
+    "previewMode": "Vorschaumodus",
+    "artistName": "Künstlername"
+  },
+  "publish": {
+    "title": "Veröffentlichen",
+    "description": "Du hast dein Profil geprüft. Nach der Veröffentlichung erscheinst du in Discovery.",
+    "checklistTitle": "Prüfung vor der Veröffentlichung",
+    "confirm": "Mein Profil veröffentlichen",
+    "note": "Du kannst jederzeit bearbeiten."
+  },
+  "stepsUi": {
+    "basic": {
+      "fullName": "Vollständiger Name",
+      "username": "Benutzername",
+      "tagline": "Kurzslogan",
+      "country": "Land",
+      "state": "Bundesland / Region",
+      "city": "Stadt",
+      "selectCountry": "Land wählen",
+      "selectState": "Region wählen",
+      "selectCity": "Stadt wählen"
+    },
+    "bio": {
+      "title": "Biografie",
+      "placeholder": "Erzähl etwas über dich..."
+    },
+    "photo": {
+      "title": "Profilfoto",
+      "upload": "Foto hochladen",
+      "change": "Ändern"
+    },
+    "gallery": {
+      "title": "Galerie",
+      "upload": "Bild hochladen",
+      "empty": "Noch keine Bilder"
+    },
+    "video": {
+      "title": "Video",
+      "upload": "Video hochladen",
+      "empty": "Noch kein Video"
+    },
+    "social": {
+      "title": "Soziale Medien",
+      "website": "Website",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "x": "X",
+      "linkedin": "LinkedIn"
+    },
+    "categories": {
+      "title": "Kategorien",
+      "hint": "Wähle die passendsten Kategorien"
+    },
+    "workArea": {
+      "title": "Arbeitsbereich",
+      "online": "Ich arbeite online",
+      "onsite": "Ich arbeite vor Ort",
+      "travel": "Ich reise",
+      "selectCountryFirst": "Du musst zuerst ein Land wählen."
+    }
+  }
+}

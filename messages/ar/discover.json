@@ -1,0 +1,76 @@
+{
+  "loading": {
+    "title": "جارٍ تحميل الفنانين...",
+    "subtitle": "جارٍ تجهيز مساحة الاكتشاف."
+  },
+  "hero": {
+    "searchPlaceholder": "ابحث عن فنان أو فئة أو مدينة أو مستخدم...",
+    "trendSearches": "عمليات بحث رائجة",
+    "activeCount": "{{count}} نشط",
+    "clearFilters": "مسح الفلاتر",
+    "labels": {
+      "artist": "Artist",
+      "country": "Country",
+      "category": "الفئة",
+      "matching": "Matching"
+    }
+  },
+  "filters": {
+    "title": "الفلاتر",
+    "smartSearch": "بحث ذكي",
+    "category": "الفئة",
+    "country": "الدولة",
+    "city": "المدينة",
+    "language": "اللغة",
+    "allCategories": "جميع الفئات",
+    "allCountries": "جميع الدول",
+    "allCities": "جميع المدن",
+    "allLanguages": "جميع اللغات",
+    "workMode": "نمط العمل",
+    "all": "الكل",
+    "online": "عن بُعد",
+    "onsite": "حضوري",
+    "travel": "سفر",
+    "photoOnly": "الملفات ذات الصور فقط",
+    "active": "نشط",
+    "inactive": "مغلق",
+    "resetAll": "إعادة تعيين جميع الفلاتر"
+  },
+  "featured": {
+    "badge": "Featured Artist",
+    "aiPreview": "AI Preview",
+    "viewProfile": "عرض الملف →",
+    "similarArtists": "اكتشف فنانين مشابهين →"
+  },
+  "results": {
+    "title": "نتائج البحث",
+    "listingCount": "{{count}} فنان معروض",
+    "subtitle": "أحدث الفنانين المنشورين",
+    "emptyTitle": "لا توجد نتائج",
+    "emptyText": "لا توجد ملفات منشورة أو لا يوجد فنانون مطابقون للفلاتر المحددة. امسح الفلاتر وحاول مرة أخرى."
+  },
+  "card": {
+    "artistFallback": "فنان",
+    "addFavorite": "إضافة إلى المفضلة",
+    "removeFavorite": "إزالة من المفضلة",
+    "emptyBio": "لم يُضِف هذا الفنان نصًا تعريفيًا قصيرًا بعد.",
+    "country": "الدولة",
+    "city": "المدينة",
+    "views": "المشاهدات",
+    "worksOnline": "يعمل عن بُعد",
+    "workModelSoon": "نمط العمل قريبًا",
+    "discoverCta": "اكتشف الفنان →"
+  },
+  "stats": {
+    "published": "منشور",
+    "results": "نتيجة",
+    "favorites": "مفضلة"
+  },
+  "topArtists": {
+    "artist": "فنان",
+    "views": "مشاهدة"
+  },
+  "fallbacks": {
+    "artist": "فنان"
+  }
+}

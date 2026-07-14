@@ -1,0 +1,122 @@
+{
+    "hero": {
+      "eyebrow": "المنصة العالمية للفنانين",
+      "titleStart": "مستقبل الفن",
+      "titleHighlight": "يبدأ هنا.",
+      "description": "يجتمع الممثلون والموسيقيون والراقصون وعارضو الأزياء والمبدعون مع العملاء والعلامات التجارية والمنتجين والوكالات في منصة عالمية واحدة.",
+      "discoverCta": "اكتشف الفنانين",
+      "foundingCta": "كن Founding Artist"
+    },
+    "trust": {
+      "discover": {
+        "title": "اكتشف الفنانين",
+        "description": "ابحث حسب الفئة والموقع"
+      },
+      "directContact": {
+        "title": "اتصال مباشر",
+        "description": "تواصل بدون وسطاء"
+      },
+      "founding": {
+        "title": "Founding Artist",
+        "description": "انضم إلى أول مجتمع"
+      },
+      "safe": {
+        "title": "منصة آمنة",
+        "description": "شفافة وموثوقة"
+      }
+    },
+    "categories": {
+      "sectionTitle": "جميع الفئات",
+      "acting": {
+        "title": "التمثيل",
+        "description": "ممثلون وفنانون"
+      },
+      "music": {
+        "title": "الموسيقى",
+        "description": "مغنون وموسيقيون"
+      },
+      "dance": {
+        "title": "الرقص",
+        "description": "راقصون ومصممو رقص"
+      },
+      "model": {
+        "title": "عارض أزياء",
+        "description": "عارضو أزياء ووجوه إعلانية"
+      },
+      "photography": {
+        "title": "التصوير",
+        "description": "مصورون وفريق إبداعي"
+      },
+      "influencer": {
+        "title": "مؤثر",
+        "description": "صانع محتوى"
+      },
+      "filmProduction": {
+        "title": "السينما والإنتاج",
+        "description": "مخرجون وإنتاج"
+      },
+      "all": {
+        "title": "جميع الفئات",
+        "description": "اكتشف أكثر من 20 فئة"
+      }
+    },
+    "artists": {
+      "actor": "ممثل",
+      "singer": "مغني",
+      "dancer": "راقص",
+      "photographer": "مصور",
+      "locations": {
+        "istanbulTurkey": "إسطنبول، تركيا",
+        "berlinGermany": "برلين، ألمانيا",
+        "milanItaly": "ميلانو، إيطاليا",
+        "madridSpain": "مدريد، إسبانيا",
+        "parisFrance": "باريس، فرنسا"
+      }
+    },
+    "founding": {
+      "badgeAlt": "شارة Founding Artist من Art-ist.Club",
+      "limitedPeriod": "لفترة محدودة",
+      "title": "احجز مكانك قبل نمو المنصة.",
+      "description": "كن جزءًا من أول مجتمع، واحصل على شارة Founding Artist الدائمة واستمتع بالمزايا الحصرية.",
+      "discoverBenefits": "اكتشف جميع المزايا",
+      "detailsCta": "عرض التفاصيل",
+      "benefits": {
+        "permanentBadge": "شارة دائمة",
+        "priorityVisibility": "أولوية الظهور",
+        "foundingCommunity": "مجتمع المؤسسين"
+      },
+      "countdown": {
+        "title": "تنتهي الحملة خلال",
+        "days": "يوم",
+        "hours": "ساعة",
+        "minutes": "دقيقة",
+        "seconds": "ثانية",
+        "ended": "انتهت الحملة",
+        "deadline": "آخر موعد: 30.06.2027 · 00:00"
+      }
+    },
+    "vip": {
+      "title": "الوصول مباشرة إلى الموهبة المناسبة.",
+      "description": "اكتشف الفنانين حسب الفئة والموقع لمشروعك.",
+      "cta": "اكتشف الفنانين",
+      "examples": {
+        "actorIstanbul": "ممثل · إسطنبول",
+        "musicianBerlin": "موسيقي · برلين",
+        "dancerIzmir": "راقص · إزمير",
+        "modelParis": "عارض أزياء · باريس"
+      }
+    },
+    "stats": {
+      "countries": "الدول والمناطق",
+      "cities": "المدن",
+      "access": "الوصول إلى المنصة",
+      "panels": "لوحات الفنانين والعملاء"
+    },
+    "footer": {
+      "description": "المنصة العالمية التي تربط الفنانين مباشرة بمن يبحث عن المواهب.",
+      "rights": "جميع الحقوق محفوظة."
+    },
+    "languageSelector": {
+      "label": "اختر اللغة"
+    }
+  }

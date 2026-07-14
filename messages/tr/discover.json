@@ -1,0 +1,76 @@
+{
+  "loading": {
+    "title": "Sanatçılar yükleniyor...",
+    "subtitle": "Discovery alanı hazırlanıyor."
+  },
+  "hero": {
+    "searchPlaceholder": "Sanatçı, kategori, şehir veya kullanıcı ara...",
+    "trendSearches": "Trend Aramalar",
+    "activeCount": "{{count}} aktif",
+    "clearFilters": "Filtreleri Temizle",
+    "labels": {
+      "artist": "Artist",
+      "country": "Country",
+      "category": "Kategori",
+      "matching": "Matching"
+    }
+  },
+  "filters": {
+    "title": "Filtreler",
+    "smartSearch": "Akıllı Arama",
+    "category": "Kategori",
+    "country": "Ülke",
+    "city": "Şehir",
+    "language": "Dil",
+    "allCategories": "Tüm kategoriler",
+    "allCountries": "Tüm ülkeler",
+    "allCities": "Tüm şehirler",
+    "allLanguages": "Tüm diller",
+    "workMode": "Çalışma Modeli",
+    "all": "Tümü",
+    "online": "Online",
+    "onsite": "Sahada",
+    "travel": "Seyahat",
+    "photoOnly": "Sadece fotoğraflı profiller",
+    "active": "Aktif",
+    "inactive": "Kapalı",
+    "resetAll": "Tüm Filtreleri Sıfırla"
+  },
+  "featured": {
+    "badge": "Featured Artist",
+    "aiPreview": "AI Preview",
+    "viewProfile": "Profili İncele →",
+    "similarArtists": "Benzer Sanatçıları Keşfet →"
+  },
+  "results": {
+    "title": "Arama Sonuçları",
+    "listingCount": "{{count}} sanatçı listeleniyor",
+    "subtitle": "En yeni yayınlanan sanatçılar",
+    "emptyTitle": "Sonuç bulunamadı",
+    "emptyText": "Yayında olan profil bulunamadı veya seçili filtrelerle eşleşen sanatçı yok. Filtreleri temizleyerek tekrar deneyebilirsin."
+  },
+  "card": {
+    "artistFallback": "Sanatçı",
+    "addFavorite": "Favoriye ekle",
+    "removeFavorite": "Favorilerden çıkar",
+    "emptyBio": "Bu sanatçı henüz kısa tanıtım metni eklemedi.",
+    "country": "Ülke",
+    "city": "Şehir",
+    "views": "Görüntülenme",
+    "worksOnline": "Online çalışır",
+    "workModelSoon": "Çalışma modeli yakında",
+    "discoverCta": "Sanatçıyı Keşfet →"
+  },
+  "stats": {
+    "published": "Yayında",
+    "results": "Sonuç",
+    "favorites": "Favori"
+  },
+  "topArtists": {
+    "artist": "Sanatçı",
+    "views": "görüntülenme"
+  },
+  "fallbacks": {
+    "artist": "Sanatçı"
+  }
+}

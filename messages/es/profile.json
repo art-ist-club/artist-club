@@ -1,0 +1,116 @@
+{
+  "setup": {
+    "loading": "Preparando el perfil...",
+    "title": "Crear perfil de artista",
+    "stepOf": "Paso {{current}} / {{total}}",
+    "back": "Atrás",
+    "continue": "Continuar",
+    "finish": "Finalizar",
+    "saving": "Guardando...",
+    "publishing": "Publicando...",
+    "steps": {
+      "basic": "Información básica",
+      "photo": "Foto de perfil",
+      "bio": "Biografía",
+      "categories": "Categorías",
+      "gallery": "Galería",
+      "video": "Video",
+      "social": "Redes sociales",
+      "workArea": "Área de trabajo",
+      "preview": "Vista previa",
+      "publish": "Publicar"
+    },
+    "alerts": {
+      "usernameRequired": "El nombre de usuario es obligatorio.",
+      "usernameTaken": "Este nombre de usuario ya está en uso. Elige otro.",
+      "publishSuccess": "¡Felicidades! Tu perfil está publicado."
+    }
+  },
+  "public": {
+    "loading": "Cargando perfil del artista...",
+    "notFound": "Perfil no encontrado",
+    "noInfo": "Aún no hay información",
+    "contact": "Contactar",
+    "sendJobRequest": "📨 Enviar solicitud de trabajo",
+    "shareProfile": "Compartir perfil",
+    "about": "Sobre el artista",
+    "achievements": "Logros",
+    "workArea": "Área de trabajo",
+    "views": "Vistas",
+    "jobRequests": "Solicitudes de trabajo",
+    "reviews": "Reseñas",
+    "worksOnsite": "Trabaja en sitio",
+    "worksOnline": "Trabaja en línea",
+    "notSpecified": "No especificado",
+    "noCategory": "Sin categoría especificada",
+    "emptyGallery": "Galería aún no añadida",
+    "emptyAchievements": "Sin logros añadidos",
+    "emptyWorkArea": "Área de trabajo no especificada"
+  },
+  "preview": {
+    "intro": "Revisa aquí cómo se verá tu perfil desde fuera antes de publicarlo. Si falta algo o hay un error, vuelve al paso correspondiente desde el menú izquierdo.",
+    "modeHint": "Esta pantalla es una vista previa del perfil de artista que se publicará.",
+    "previewMode": "Modo vista previa",
+    "artistName": "Nombre del artista"
+  },
+  "publish": {
+    "title": "Publicar",
+    "description": "Has revisado tu perfil. Al publicarlo, aparecerás en Discovery.",
+    "checklistTitle": "Revisión previa a la publicación",
+    "confirm": "Publicar mi perfil",
+    "note": "Puedes editarlo cuando quieras."
+  },
+  "stepsUi": {
+    "basic": {
+      "fullName": "Nombre completo",
+      "username": "Nombre de usuario",
+      "tagline": "Eslogan corto",
+      "country": "País",
+      "state": "Estado / Región",
+      "city": "Ciudad",
+      "selectCountry": "Seleccionar país",
+      "selectState": "Seleccionar región",
+      "selectCity": "Seleccionar ciudad"
+    },
+    "bio": {
+      "title": "Biografía",
+      "placeholder": "Cuéntanos sobre ti..."
+    },
+    "photo": {
+      "title": "Foto de perfil",
+      "upload": "Subir foto",
+      "change": "Cambiar"
+    },
+    "gallery": {
+      "title": "Galería",
+      "upload": "Subir imagen",
+      "empty": "Aún no hay imágenes"
+    },
+    "video": {
+      "title": "Video",
+      "upload": "Subir video",
+      "empty": "Aún no hay video"
+    },
+    "social": {
+      "title": "Redes sociales",
+      "website": "Website",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "x": "X",
+      "linkedin": "LinkedIn"
+    },
+    "categories": {
+      "title": "Categorías",
+      "hint": "Elige las categorías más adecuadas"
+    },
+    "workArea": {
+      "title": "Área de trabajo",
+      "online": "Trabajo en línea",
+      "onsite": "Trabajo en sitio",
+      "travel": "Viajo",
+      "selectCountryFirst": "Primero debes seleccionar un país."
+    }
+  }
+}

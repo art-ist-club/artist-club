@@ -1,0 +1,73 @@
+{
+  "main": {
+    "discover": "اكتشف",
+    "foundingArtist": "Founding Artist",
+    "vipB2b": "VIP / B2B",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "footer": {
+    "discover": "اكتشف",
+    "artists": "الفنانون",
+    "categories": "الفئات",
+    "platform": "المنصة",
+    "account": "الحساب"
+  },
+  "siteFooter": {
+    "description": "المنصة الفنية العالمية حيث يُكتشف المواهب وتبدأ الفرص.",
+    "explore": "اكتشف",
+    "artists": "الفنانون",
+    "categories": "الفئات",
+    "projects": "المشاريع",
+    "platform": "المنصة",
+    "becomeArtist": "إنشاء حساب",
+    "foundingArtist": "Founding Artist",
+    "features": "الميزات",
+    "help": "مساعدة",
+    "support": "مركز الدعم",
+    "faq": "الأسئلة الشائعة",
+    "contact": "تواصل معنا",
+    "rights": "جميع الحقوق محفوظة.",
+    "company": "الشركة",
+    "legal": "قانوني",
+    "about": "من نحن",
+    "terms": "شروط الاستخدام",
+    "privacy": "الخصوصية",
+    "cookies": "ملفات تعريف الارتباط",
+    "refund": "الاسترجاع",
+    "subscription": "الاشتراك",
+    "companyInfo": "معلومات الشركة",
+    "register": "إنشاء حساب",
+    "login": "تسجيل الدخول",
+    "discoverLink": "اكتشف",
+    "turkeyLegal": "قانوني TR",
+    "kvkk": "إخطار KVKK",
+    "explicitConsent": "موافقة صريحة",
+    "electronicCommunications": "بريد تجاري",
+    "distanceSalesPreliminary": "معلومات مسبقة",
+    "distanceSalesAgreement": "عقد عن بُعد",
+    "cancellation": "إلغاء وعدول"
+  },
+  "dashboard": {
+    "artist": "لوحة الفنان",
+    "client": "لوحة العميل",
+    "favorites": "المفضلة",
+    "messages": "الرسائل",
+    "notifications": "الإشعارات",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج"
+  },
+  "profileSetup": {
+    "basic": "المعلومات الأساسية",
+    "categories": "الفئات",
+    "photo": "الصورة الشخصية",
+    "gallery": "المعرض",
+    "video": "الفيديو",
+    "bio": "نبذة عني",
+    "workArea": "منطقة العمل",
+    "social": "وسائل التواصل الاجتماعي",
+    "preview": "معاينة",
+    "publish": "نشر"
+  }
+}

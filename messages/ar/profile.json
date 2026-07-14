@@ -1,0 +1,116 @@
+{
+  "setup": {
+    "loading": "جاري تجهيز الملف الشخصي...",
+    "title": "إنشاء ملف الفنان",
+    "stepOf": "الخطوة {{current}} / {{total}}",
+    "back": "رجوع",
+    "continue": "متابعة",
+    "finish": "إنهاء",
+    "saving": "جاري الحفظ...",
+    "publishing": "جاري النشر...",
+    "steps": {
+      "basic": "المعلومات الأساسية",
+      "photo": "صورة الملف الشخصي",
+      "bio": "السيرة الذاتية",
+      "categories": "التصنيفات",
+      "gallery": "المعرض",
+      "video": "فيديو",
+      "social": "وسائل التواصل الاجتماعي",
+      "workArea": "منطقة العمل",
+      "preview": "معاينة",
+      "publish": "نشر"
+    },
+    "alerts": {
+      "usernameRequired": "اسم المستخدم مطلوب.",
+      "usernameTaken": "اسم المستخدم هذا مستخدم بالفعل. يُرجى اختيار اسم آخر.",
+      "publishSuccess": "تهانينا! تم نشر ملفك الشخصي."
+    }
+  },
+  "public": {
+    "loading": "جاري تحميل ملف الفنان...",
+    "notFound": "الملف الشخصي غير موجود",
+    "noInfo": "لا توجد معلومات بعد",
+    "contact": "تواصل معنا",
+    "sendJobRequest": "📨 إرسال طلب عمل",
+    "shareProfile": "مشاركة الملف الشخصي",
+    "about": "نبذة عن الفنان",
+    "achievements": "الإنجازات",
+    "workArea": "منطقة العمل",
+    "views": "المشاهدات",
+    "jobRequests": "طلبات العمل",
+    "reviews": "التقييمات",
+    "worksOnsite": "يعمل في الموقع",
+    "worksOnline": "يعمل عبر الإنترنت",
+    "notSpecified": "غير محدد",
+    "noCategory": "لم يُحدد تصنيف",
+    "emptyGallery": "لم يُضف المعرض بعد",
+    "emptyAchievements": "لم تُضف إنجازات",
+    "emptyWorkArea": "لم تُحدد منطقة العمل"
+  },
+  "preview": {
+    "intro": "تحقق هنا من شكل ملفك الشخصي للآخرين قبل النشر. إذا كان هناك نقص أو خطأ، يمكنك العودة إلى الخطوة المعنية عبر القائمة اليسرى.",
+    "modeHint": "هذه الشاشة معاينة لملف الفنان الذي سيتم نشره.",
+    "previewMode": "وضع المعاينة",
+    "artistName": "اسم الفنان"
+  },
+  "publish": {
+    "title": "نشر",
+    "description": "لقد راجعت ملفك الشخصي. عند النشر ستظهر في Discovery.",
+    "checklistTitle": "مراجعة ما قبل النشر",
+    "confirm": "انشر ملفي الشخصي",
+    "note": "يمكنك التعديل في أي وقت."
+  },
+  "stepsUi": {
+    "basic": {
+      "fullName": "الاسم الكامل",
+      "username": "اسم المستخدم",
+      "tagline": "شعار قصير",
+      "country": "الدولة",
+      "state": "الولاية / المنطقة",
+      "city": "المدينة",
+      "selectCountry": "اختر الدولة",
+      "selectState": "اختر المنطقة",
+      "selectCity": "اختر المدينة"
+    },
+    "bio": {
+      "title": "السيرة الذاتية",
+      "placeholder": "حدّثنا عن نفسك..."
+    },
+    "photo": {
+      "title": "صورة الملف الشخصي",
+      "upload": "رفع صورة",
+      "change": "تغيير"
+    },
+    "gallery": {
+      "title": "المعرض",
+      "upload": "رفع صورة",
+      "empty": "لا توجد صور بعد"
+    },
+    "video": {
+      "title": "فيديو",
+      "upload": "رفع فيديو",
+      "empty": "لا يوجد فيديو بعد"
+    },
+    "social": {
+      "title": "وسائل التواصل الاجتماعي",
+      "website": "Website",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "x": "X",
+      "linkedin": "LinkedIn"
+    },
+    "categories": {
+      "title": "التصنيفات",
+      "hint": "اختر أنسب التصنيفات"
+    },
+    "workArea": {
+      "title": "منطقة العمل",
+      "online": "أعمل عبر الإنترنت",
+      "onsite": "أعمل في الموقع",
+      "travel": "أسافر",
+      "selectCountryFirst": "يجب اختيار الدولة أولاً."
+    }
+  }
+}

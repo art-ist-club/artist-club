@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "📨 İş Talebi Gönder",
+    "subtitle": "Sanatçıya ulaşmak için iş detaylarını ve iletişim bilgilerinizi gönderin.",
+    "jobDetails": "İş Detayları",
+    "contactInfo": "İletişim Bilgileri",
+    "cancel": "Vazgeç",
+    "sending": "Gönderiliyor...",
+    "send": "İş Talebini Gönder",
+    "closeAria": "Kapat",
+    "success": "İş talebiniz başarıyla gönderildi.",
+    "errors": {
+      "artistMissing": "Sanatçı bilgisi bulunamadı. Lütfen sayfayı yenileyip tekrar deneyin.",
+      "jobType": "Lütfen iş türünü yazın.",
+      "country": "Lütfen ülke bilgisini yazın.",
+      "city": "Lütfen şehir bilgisini yazın.",
+      "name": "Lütfen ad soyad bilgisini yazın.",
+      "phone": "Lütfen telefon bilgisini yazın.",
+      "email": "Lütfen e-mail bilgisini yazın.",
+      "loginRequired": "İş talebi göndermek için giriş yapmalısınız.",
+      "sendFailed": "İş talebi gönderilemedi. Lütfen tekrar deneyin."
+    }
+  },
+  "list": {
+    "loading": "İş talepleri yükleniyor...",
+    "empty": "Henüz iş talebi yok.",
+    "emptyHint": "Clientlardan gelen talepler burada listelenecek.",
+    "openChat": "Mesajlaşmayı Aç →",
+    "message": "Talep Mesajı",
+    "noDate": "Tarih belirtilmedi",
+    "noConversation": "Conversation yok",
+    "artistLoadError": "Artist profili yüklenemedi.",
+    "loadError": "İş talepleri yüklenemedi.",
+    "phone": "Telefon",
+    "email": "E-Mail"
+  }
+}

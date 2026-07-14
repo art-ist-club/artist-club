@@ -1,0 +1,122 @@
+{
+    "hero": {
+      "eyebrow": "Plataforma Global de Artistas",
+      "titleStart": "El futuro del arte",
+      "titleHighlight": "empieza aquí.",
+      "description": "Actores, músicos, bailarines, modelos y talentos creativos se reúnen con clientes, marcas, productores y agencias en una única plataforma global.",
+      "discoverCta": "Descubrir Artistas",
+      "foundingCta": "Hazte Founding Artist"
+    },
+    "trust": {
+      "discover": {
+        "title": "Descubrir Artistas",
+        "description": "Busca por categoría y ubicación"
+      },
+      "directContact": {
+        "title": "Contacto Directo",
+        "description": "Conéctate sin intermediarios"
+      },
+      "founding": {
+        "title": "Founding Artist",
+        "description": "Únete a la primera comunidad"
+      },
+      "safe": {
+        "title": "Plataforma Segura",
+        "description": "Transparente y confiable"
+      }
+    },
+    "categories": {
+      "sectionTitle": "Todas las Categorías",
+      "acting": {
+        "title": "Actuación",
+        "description": "Actores y Artistas"
+      },
+      "music": {
+        "title": "Música",
+        "description": "Cantantes y Músicos"
+      },
+      "dance": {
+        "title": "Danza",
+        "description": "Bailarines y Coreógrafos"
+      },
+      "model": {
+        "title": "Modelo",
+        "description": "Modelos e Imagen"
+      },
+      "photography": {
+        "title": "Fotografía",
+        "description": "Fotógrafos y Equipo Creativo"
+      },
+      "influencer": {
+        "title": "Influencer",
+        "description": "Creador de Contenido"
+      },
+      "filmProduction": {
+        "title": "Cine y Producción",
+        "description": "Directores y Producción"
+      },
+      "all": {
+        "title": "Todas las Categorías",
+        "description": "Explora más de 20 categorías"
+      }
+    },
+    "artists": {
+      "actor": "Actor",
+      "singer": "Cantante",
+      "dancer": "Bailarín",
+      "photographer": "Fotógrafo",
+      "locations": {
+        "istanbulTurkey": "Estambul, Turquía",
+        "berlinGermany": "Berlín, Alemania",
+        "milanItaly": "Milán, Italia",
+        "madridSpain": "Madrid, España",
+        "parisFrance": "París, Francia"
+      }
+    },
+    "founding": {
+      "badgeAlt": "Insignia Founding Artist de Art-ist.Club",
+      "limitedPeriod": "Tiempo Limitado",
+      "title": "Asegura tu lugar antes de que la plataforma crezca.",
+      "description": "Forma parte de la primera comunidad, consigue la insignia permanente Founding Artist y disfruta de ventajas exclusivas.",
+      "discoverBenefits": "Descubre todos los beneficios",
+      "detailsCta": "Ver Detalles",
+      "benefits": {
+        "permanentBadge": "Insignia permanente",
+        "priorityVisibility": "Visibilidad prioritaria",
+        "foundingCommunity": "Comunidad fundadora"
+      },
+      "countdown": {
+        "title": "La campaña termina en",
+        "days": "Días",
+        "hours": "Horas",
+        "minutes": "Minutos",
+        "seconds": "Segundos",
+        "ended": "La campaña ha terminado",
+        "deadline": "Última inscripción: 30.06.2027 · 00:00"
+      }
+    },
+    "vip": {
+      "title": "Accede directamente al talento adecuado.",
+      "description": "Descubre artistas por categoría y ubicación para tu proyecto.",
+      "cta": "Descubrir Artistas",
+      "examples": {
+        "actorIstanbul": "Actor · Estambul",
+        "musicianBerlin": "Músico · Berlín",
+        "dancerIzmir": "Bailarín · Esmirna",
+        "modelParis": "Modelo · París"
+      }
+    },
+    "stats": {
+      "countries": "Países y Regiones",
+      "cities": "Ciudades",
+      "access": "Acceso a la Plataforma",
+      "panels": "Paneles de Artistas y Clientes"
+    },
+    "footer": {
+      "description": "La plataforma global que conecta directamente a artistas con quienes buscan talento.",
+      "rights": "Todos los derechos reservados."
+    },
+    "languageSelector": {
+      "label": "Seleccionar idioma"
+    }
+  }

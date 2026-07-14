@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "title": "📨 Send Job Request",
+    "subtitle": "Send job details and your contact information to reach the artist.",
+    "jobDetails": "Job Details",
+    "contactInfo": "Contact Information",
+    "cancel": "Cancel",
+    "sending": "Sending...",
+    "send": "Send Job Request",
+    "closeAria": "Close",
+    "success": "Your job request was sent successfully.",
+    "errors": {
+      "artistMissing": "Artist information was not found. Please refresh the page and try again.",
+      "jobType": "Please enter the job type.",
+      "country": "Please enter the country.",
+      "city": "Please enter the city.",
+      "name": "Please enter your full name.",
+      "phone": "Please enter your phone number.",
+      "email": "Please enter your email address.",
+      "loginRequired": "You must sign in to send a job request.",
+      "sendFailed": "The job request could not be sent. Please try again."
+    }
+  },
+  "list": {
+    "loading": "Loading job requests...",
+    "empty": "No job requests yet.",
+    "emptyHint": "Requests from clients will appear here.",
+    "openChat": "Open Conversation →",
+    "message": "Request Message",
+    "noDate": "No date specified",
+    "noConversation": "No conversation",
+    "artistLoadError": "Artist profile could not be loaded.",
+    "loadError": "Job requests could not be loaded.",
+    "phone": "Phone",
+    "email": "Email"
+  }
+}

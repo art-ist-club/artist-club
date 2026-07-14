@@ -1,0 +1,7 @@
+{
+  "generic": "Bir hata oluştu",
+  "tryAgain": "Lütfen tekrar dene.",
+  "unauthorized": "Bu işlem için giriş yapmalısın.",
+  "notFound": "Sayfa bulunamadı",
+  "network": "Bağlantı hatası. Lütfen tekrar dene."
+}

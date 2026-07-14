@@ -1,0 +1,116 @@
+{
+  "setup": {
+    "loading": "Profil hazırlanıyor...",
+    "title": "Sanatçı Profilini Oluştur",
+    "stepOf": "Adım {{current}} / {{total}}",
+    "back": "Geri",
+    "continue": "Devam Et",
+    "finish": "Bitir",
+    "saving": "Kaydediliyor...",
+    "publishing": "Yayınlanıyor...",
+    "steps": {
+      "basic": "Temel Bilgiler",
+      "photo": "Profil Fotoğrafı",
+      "bio": "Biyografi",
+      "categories": "Kategoriler",
+      "gallery": "Galeri",
+      "video": "Video",
+      "social": "Sosyal Medya",
+      "workArea": "Çalışma Alanı",
+      "preview": "Önizleme",
+      "publish": "Yayınla"
+    },
+    "alerts": {
+      "usernameRequired": "Kullanıcı adı gerekli.",
+      "usernameTaken": "Bu kullanıcı adı alınmış. Lütfen başka bir tane seç.",
+      "publishSuccess": "Tebrikler! Profilin yayınlandı."
+    }
+  },
+  "public": {
+    "loading": "Sanatçı profili yükleniyor...",
+    "notFound": "Profil bulunamadı",
+    "noInfo": "Henüz bilgi yok",
+    "contact": "İletişime Geç",
+    "sendJobRequest": "📨 İş Talebi Gönder",
+    "shareProfile": "Profili Paylaş",
+    "about": "Sanatçı Hakkında",
+    "achievements": "Başarılar",
+    "workArea": "Çalışma Alanı",
+    "views": "Görüntülenme",
+    "jobRequests": "İş Talebi",
+    "reviews": "Değerlendirme",
+    "worksOnsite": "Yerinde çalışır",
+    "worksOnline": "Online çalışır",
+    "notSpecified": "Belirtilmedi",
+    "noCategory": "Kategori belirtilmedi",
+    "emptyGallery": "Galeri henüz eklenmedi",
+    "emptyAchievements": "Başarı eklenmedi",
+    "emptyWorkArea": "Çalışma alanı belirtilmedi"
+  },
+  "preview": {
+    "intro": "Profilin yayına alınmadan önce dışarıdan nasıl görüneceğini burada kontrol et. Eksik veya yanlış gördüğün alan varsa sol menüden ilgili adıma dönebilirsin.",
+    "modeHint": "Bu ekran yayınlanacak sanatçı profilinin önizlemesidir.",
+    "previewMode": "Önizleme Modu",
+    "artistName": "Sanatçı adı"
+  },
+  "publish": {
+    "title": "Yayınla",
+    "description": "Profilini kontrol ettin. Yayınladığında Discovery alanında görünür olursun.",
+    "checklistTitle": "Yayın öncesi kontrol",
+    "confirm": "Profilimi yayınla",
+    "note": "İstediğin zaman düzenleyebilirsin."
+  },
+  "stepsUi": {
+    "basic": {
+      "fullName": "Ad Soyad",
+      "username": "Kullanıcı adı",
+      "tagline": "Kısa slogan",
+      "country": "Ülke",
+      "state": "Eyalet / Bölge",
+      "city": "Şehir",
+      "selectCountry": "Ülke seç",
+      "selectState": "Bölge seç",
+      "selectCity": "Şehir seç"
+    },
+    "bio": {
+      "title": "Biyografi",
+      "placeholder": "Kendini anlat..."
+    },
+    "photo": {
+      "title": "Profil Fotoğrafı",
+      "upload": "Fotoğraf yükle",
+      "change": "Değiştir"
+    },
+    "gallery": {
+      "title": "Galeri",
+      "upload": "Görsel yükle",
+      "empty": "Henüz görsel yok"
+    },
+    "video": {
+      "title": "Video",
+      "upload": "Video yükle",
+      "empty": "Henüz video yok"
+    },
+    "social": {
+      "title": "Sosyal Medya",
+      "website": "Website",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "x": "X",
+      "linkedin": "LinkedIn"
+    },
+    "categories": {
+      "title": "Kategoriler",
+      "hint": "En fazla uygun kategorileri seç"
+    },
+    "workArea": {
+      "title": "Çalışma Alanı",
+      "online": "Online çalışırım",
+      "onsite": "Yerinde çalışırım",
+      "travel": "Seyahat ederim",
+      "selectCountryFirst": "Önce ülke seçmelisin."
+    }
+  }
+}

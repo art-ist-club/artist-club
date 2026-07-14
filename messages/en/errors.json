@@ -1,0 +1,7 @@
+{
+  "generic": "Something went wrong",
+  "tryAgain": "Please try again.",
+  "unauthorized": "You must sign in to perform this action.",
+  "notFound": "Page not found",
+  "network": "Connection error. Please try again."
+}

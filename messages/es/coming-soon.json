@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "Muy pronto | ART-IST.CLUB",
+    "description": "ART-IST.CLUB — la plataforma global de descubrimiento de artistas estará lista muy pronto."
+  },
+  "eyebrow": "Soft Launch",
+  "brand": "ART-IST.CLUB",
+  "title": "Nos vemos muy pronto",
+  "description": "La plataforma global que conecta artistas, marcas y proyectos en todo el mundo está recibiendo los últimos retoques. El escenario casi está listo.",
+  "nearOpen": "El lanzamiento está muy cerca. Las primeras membresías y el descubrimiento se activarán en breve.",
+  "artistCard": {
+    "title": "Para artistas",
+    "text": "Crea un perfil profesional, muestra tu portafolio y sé descubierto para los proyectos adecuados."
+  },
+  "clientCard": {
+    "title": "Para clientes",
+    "text": "Descubre talento verificado, envía solicitudes y conéctate directamente con los artistas que necesitas."
+  },
+  "followTitle": "Síguenos",
+  "followHint": "Entérate primero del lanzamiento. Síguenos en redes sociales.",
+  "ctaHome": "Volver al inicio",
+  "ctaFounding": "Ver Founding Artist",
+  "ctaContact": "Contacto"
+}

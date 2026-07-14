@@ -1,0 +1,46 @@
+{
+    "brand": {
+      "name": "Art-ist.Club",
+      "tagline": "The New World of Art"
+    },
+  
+    "actions": {
+      "login": "Log In",
+      "register": "Register",
+      "join": "Join",
+      "logout": "Log Out",
+      "save": "Save",
+      "cancel": "Cancel",
+      "continue": "Continue",
+      "back": "Back",
+      "next": "Next",
+      "close": "Close",
+      "search": "Search",
+      "discover": "Discover",
+      "view": "View",
+      "details": "Details",
+      "send": "Send",
+      "publish": "Publish",
+      "edit": "Edit",
+      "delete": "Delete",
+      "upload": "Upload"
+    },
+  
+    "status": {
+      "loading": "Loading...",
+      "success": "Success",
+      "error": "An error occurred",
+      "comingSoon": "Coming Soon",
+      "online": "Online",
+      "offline": "Offline"
+    },
+  
+    "language": {
+      "tr": "Türkçe",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "ar": "العربية"
+    }
+  }

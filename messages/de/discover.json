@@ -1,0 +1,76 @@
+{
+  "loading": {
+    "title": "Artists werden geladen...",
+    "subtitle": "Discovery-Bereich wird vorbereitet."
+  },
+  "hero": {
+    "searchPlaceholder": "Artist, Kategorie, Stadt oder Benutzer suchen...",
+    "trendSearches": "Trend-Suchen",
+    "activeCount": "{{count}} aktiv",
+    "clearFilters": "Filter löschen",
+    "labels": {
+      "artist": "Artist",
+      "country": "Country",
+      "category": "Kategorie",
+      "matching": "Matching"
+    }
+  },
+  "filters": {
+    "title": "Filter",
+    "smartSearch": "Intelligente Suche",
+    "category": "Kategorie",
+    "country": "Land",
+    "city": "Stadt",
+    "language": "Sprache",
+    "allCategories": "Alle Kategorien",
+    "allCountries": "Alle Länder",
+    "allCities": "Alle Städte",
+    "allLanguages": "Alle Sprachen",
+    "workMode": "Arbeitsmodell",
+    "all": "Alle",
+    "online": "Online",
+    "onsite": "Vor Ort",
+    "travel": "Reisebereit",
+    "photoOnly": "Nur Profile mit Foto",
+    "active": "Aktiv",
+    "inactive": "Aus",
+    "resetAll": "Alle Filter zurücksetzen"
+  },
+  "featured": {
+    "badge": "Featured Artist",
+    "aiPreview": "AI Preview",
+    "viewProfile": "Profil ansehen →",
+    "similarArtists": "Ähnliche Artists entdecken →"
+  },
+  "results": {
+    "title": "Suchergebnisse",
+    "listingCount": "{{count}} Artists gelistet",
+    "subtitle": "Neueste veröffentlichte Artists",
+    "emptyTitle": "Keine Ergebnisse gefunden",
+    "emptyText": "Es wurden keine veröffentlichten Profile gefunden oder keine Artists entsprechen den ausgewählten Filtern. Lösche die Filter und versuche es erneut."
+  },
+  "card": {
+    "artistFallback": "Artist",
+    "addFavorite": "Zu Favoriten hinzufügen",
+    "removeFavorite": "Aus Favoriten entfernen",
+    "emptyBio": "Dieser Artist hat noch keinen Kurztext hinzugefügt.",
+    "country": "Land",
+    "city": "Stadt",
+    "views": "Aufrufe",
+    "worksOnline": "Arbeitet online",
+    "workModelSoon": "Arbeitsmodell bald verfügbar",
+    "discoverCta": "Artist entdecken →"
+  },
+  "stats": {
+    "published": "Veröffentlicht",
+    "results": "Ergebnis",
+    "favorites": "Favorit"
+  },
+  "topArtists": {
+    "artist": "Artist",
+    "views": "Aufrufe"
+  },
+  "fallbacks": {
+    "artist": "Artist"
+  }
+}

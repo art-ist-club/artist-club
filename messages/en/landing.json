@@ -1,0 +1,122 @@
+{
+    "hero": {
+      "eyebrow": "Global Art Platform",
+      "titleStart": "The future of art",
+      "titleHighlight": "starts here.",
+      "description": "Actors, musicians, dancers, models and creative talents meet clients, brands, producers and agencies on one global platform.",
+      "discoverCta": "Discover Artists",
+      "foundingCta": "Become a Founding Artist"
+    },
+    "trust": {
+      "discover": {
+        "title": "Discover Artists",
+        "description": "Search by category and location"
+      },
+      "directContact": {
+        "title": "Direct Contact",
+        "description": "Connect without intermediaries"
+      },
+      "founding": {
+        "title": "Founding Artist",
+        "description": "Join the first community"
+      },
+      "safe": {
+        "title": "Secure Platform",
+        "description": "Transparent and trusted"
+      }
+    },
+    "categories": {
+      "sectionTitle": "All Categories",
+      "acting": {
+        "title": "Acting",
+        "description": "Actors & Performers"
+      },
+      "music": {
+        "title": "Music",
+        "description": "Singers & Musicians"
+      },
+      "dance": {
+        "title": "Dance",
+        "description": "Dancers & Choreographers"
+      },
+      "model": {
+        "title": "Model",
+        "description": "Models & Faces"
+      },
+      "photography": {
+        "title": "Photography",
+        "description": "Photographers & Creative Team"
+      },
+      "influencer": {
+        "title": "Influencer",
+        "description": "Content Creator"
+      },
+      "filmProduction": {
+        "title": "Film & Production",
+        "description": "Directors & Production"
+      },
+      "all": {
+        "title": "All Categories",
+        "description": "Explore 20+ Categories"
+      }
+    },
+    "artists": {
+      "actor": "Actor",
+      "singer": "Singer",
+      "dancer": "Dancer",
+      "photographer": "Photographer",
+      "locations": {
+        "istanbulTurkey": "Istanbul, Türkiye",
+        "berlinGermany": "Berlin, Germany",
+        "milanItaly": "Milan, Italy",
+        "madridSpain": "Madrid, Spain",
+        "parisFrance": "Paris, France"
+      }
+    },
+    "founding": {
+      "badgeAlt": "Art-ist.Club Founding Artist Badge",
+      "limitedPeriod": "Limited Time",
+      "title": "Secure your place before the platform grows.",
+      "description": "Become part of the first community, earn the permanent Founding Artist badge and unlock exclusive benefits.",
+      "discoverBenefits": "Discover all benefits",
+      "detailsCta": "View Details",
+      "benefits": {
+        "permanentBadge": "Permanent badge",
+        "priorityVisibility": "Priority visibility",
+        "foundingCommunity": "Founding community"
+      },
+      "countdown": {
+        "title": "Campaign ends in",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "ended": "Campaign ended",
+        "deadline": "Last entry: 30.06.2027 · 00:00"
+      }
+    },
+    "vip": {
+      "title": "Reach the right talent directly.",
+      "description": "Discover artists by category and location for your project.",
+      "cta": "Discover Artists",
+      "examples": {
+        "actorIstanbul": "Actor · Istanbul",
+        "musicianBerlin": "Musician · Berlin",
+        "dancerIzmir": "Dancer · Izmir",
+        "modelParis": "Model · Paris"
+      }
+    },
+    "stats": {
+      "countries": "Countries & Regions",
+      "cities": "Cities",
+      "access": "Platform Access",
+      "panels": "Artist & Client Panels"
+    },
+    "footer": {
+      "description": "The global platform connecting artists directly with people looking for talent.",
+      "rights": "All rights reserved."
+    },
+    "languageSelector": {
+      "label": "Select Language"
+    }
+  }

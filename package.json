@@ -6,10 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "generate:locations": "tsx scripts/generate-locations.ts"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.110.0",
     "@tailwindcss/postcss": "^4.3.2",
+    "axios": "^1.18.1",
+    "csv-parser": "^3.2.1",
+    "csv-writer": "^1.6.0",
     "next": "16.2.10",
     "react": "19.2.7",
     "react-dom": "19.2.7",

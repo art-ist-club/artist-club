@@ -1,0 +1,38 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "main": ".open-next/worker.js",
+  "name": "art-ist-club",
+  // Set compatibility_date to today or later than 2024-09-23 for OpenNext
+  "compatibility_date": "2026-07-14",
+  "compatibility_flags": [
+    // Enable Node.js API
+    "nodejs_compat",
+    // Allow fetching public URLs from the Worker
+    "global_fetch_strictly_public"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      // Must match the Worker "name" above
+      "service": "art-ist-club"
+    }
+  ],
+  "images": {
+    // Cloudflare Images binding for next/image optimization
+    "binding": "IMAGES"
+  },
+  "observability": {
+    "enabled": true
+  }
+  // Optional R2 incremental cache (enable later when R2 is ready):
+  // "r2_buckets": [
+  //   {
+  //     "binding": "NEXT_INC_CACHE_R2_BUCKET",
+  //     "bucket_name": "art-ist-club-next-cache"
+  //   }
+  // ]
+}

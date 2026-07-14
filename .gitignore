@@ -1,6 +1,11 @@
 node_modules
 .next
+.open-next
+.wrangler
 out
 .env
 .env.local
+.dev.vars
 .DS_Store
+tsconfig.tsbuildinfo
+cloudflare-env.d.ts
